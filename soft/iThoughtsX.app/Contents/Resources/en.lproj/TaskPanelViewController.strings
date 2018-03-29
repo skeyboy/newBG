@@ -1,0 +1,93 @@
+
+/* Start as in 'Start Date' */
+"36.title" = "Start";
+
+/* Due as in 'Due Date' */
+"48.title" = "Due";
+
+/* Time period */
+"72.title" = "Minutes";
+
+/* Time period */
+"73.title" = "Hours";
+
+/* Time period */
+"74.title" = "Days";
+
+/* Effort is a topic attribute (measured in hours, days, weeks etc) */
+"80.title" = "Effort";
+
+/* Priority/Progress/Effort - not set */
+"84.title" = "Not Set";
+
+/* Progress value */
+"85.title" = "Not Started";
+
+/* Progress value */
+"86.title" = "10%";
+
+/*  */
+"88.title" = "Progress";
+
+/* Progress value */
+"89.title" = "50%";
+
+/* Progress value */
+"90.title" = "75%";
+
+/* Progress value */
+"91.title" = "Complete";
+
+/* Time period */
+"93.title" = "Weeks";
+
+/* Time period */
+"94.title" = "Months";
+
+/* Time period */
+"95.title" = "Years";
+
+/* Progress value */
+"151.title" = "25%";
+
+/* Progress value */
+"152.title" = "35%";
+
+/* Progress value */
+"153.title" = "65%";
+
+/* Progress value */
+"154.title" = "90%";
+
+/* List of resource names (typically people) */
+"158.title" = "Resources";
+
+/* Button to clear all task related attributes */
+"167.title" = "Clear All";
+
+/* Progress/effort value (sum/average of the child values) */
+"171.title" = "Rollup";
+
+/* Number from 1-5 */
+"173.title" = "Priority";
+
+/* Priority/Progress/Effort - not set */
+"177.title" = "Not Set";
+
+/* Priority value (1-5) */
+"178.title" = "2";
+
+/* Priority value (1-5) */
+"179.title" = "3";
+
+/* Priority value (1-5) */
+"180.title" = "4";
+
+/* Priority value (1-5) */
+"181.title" = "5";
+
+/* Priority value (1-5) */
+"184.title" = "1";
+
+/* Progress/effort value (sum/average of the child values) */
+"189.title" = "Rollup";

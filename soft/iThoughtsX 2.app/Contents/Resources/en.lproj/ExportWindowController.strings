@@ -1,0 +1,363 @@
+/* TW.PREFIX=Mac.ExportWC. */
+
+
+/* Checkbox to indicate if we should export any images into the document appendix */
+"Yjn-Pi-WcF.title" = "Images Appendix";
+
+/* Checkbox to tindicate if we should export any linked/referenced maps */
+"4MU-ZV-vK2.title" = "Linked Maps";
+
+/* Option to set the page size (A4, A3 etc) of the appendix pages */
+"FDQ-TE-dzD.title" = "Appendix Page Size";
+
+
+/* Checkbox to indicate if attachments (documents) should be packaged into a single textpack file when exporting */
+"dif-zB-0p3.title" = "Package attachments (.textpack)";
+
+
+/* Checkbox option to generate an old (pre v4) file format */
+"YhV-es-iUc.title" = "Use Legacy Format (pre v4)";
+
+
+/* */
+"1.title" = "Window";
+
+/* textual description (label) */
+"16.title" = "Adobe PDF format. Ideal for printing or publishing as a download on a website.";
+
+/* toolbar button indicating export format */
+"22.label" = "Website";
+
+/* toolbar button indicating export format */
+"22.paletteLabel" = "Website";
+
+/* */
+"29.title" = "Save";
+
+/* */
+"31.title" = "Cancel";
+
+/* */
+"52.title" = "Cancel";
+
+/* textual description (label) */
+"53.title" = "Creates a web page with a clickable image of the map. Notes, attachments, links and images can be clicked and viewed. There is also a 'View Outline' option.";
+
+/* Toolbar button to choose which report type to export */
+"85.label" = "Reports";
+
+/* Toolbar button to choose which report type to export */
+"85.paletteLabel" = "Reports";
+
+/* */
+"97.title" = "Cancel";
+
+/* textual description (label) */
+"98.title" = "For a topic to be included in a task report, it must have a progress value.";
+
+/*  */
+"113.title" = "Cancel";
+
+/* textual description (label) */
+"114.title" = "Markdown (.markdown) is a simple, human readable, text format designed to be converted into HTML.";
+
+/* Export option - use 4 spaces rather than TAB to indent text */
+"127.title" = "4xSPACE";
+
+/* TAB as in the TAB character to indent text */
+"128.title" = "TAB";
+
+/* label indicating the type of indent character used (TAB of SPACE) */
+"131.title" = "Indent using";
+
+/* */
+"136.title" = "1";
+
+/*  */
+"137.title" = "None";
+
+/* export option - number of document header levels to export */
+"138.title" = "Header Levels";
+
+/* */
+"139.title" = "2";
+
+/* */
+"140.title" = "3";
+
+/* */
+"141.title" = "4";
+
+/* */
+"142.title" = "5";
+
+/* */
+"143.title" = "6";
+
+/* */
+"144.title" = "7";
+
+/* */
+"145.title" = "8";
+
+/* */
+"146.title" = "9";
+
+/* Option to include the topic notes in an appendix of the exported document */
+"18Q-5Z-Q0Z.title" = "Notes Appendix";
+
+/* Option to delimite CSV export using either a comma or semi colon */
+"24T-1E-d8I.title" = "Delimit with";
+
+/* How much to scale the map when exporting */
+"3lE-Lk-76m.title" = "200%";
+
+/* textual description (lebel) */
+"425-5D-38S.title" = "Microsoft Word (.docx) Supported by Office 2007 and later and Apple Pages.";
+
+/* Paper size */
+"4hs-Aa-cZM.title" = "A4";
+
+/* Preview the exported document */
+"4vd-LH-bCU.title" = "Preview";
+
+/* */
+"66c-qU-YoC.title" = "Cancel";
+
+/* Option to export as an image (PNG or JPG etc) */
+"6et-iP-F32.label" = "Image";
+
+/* Option to export as an image (PNG or JPG etc) */
+"6et-iP-F32.paletteLabel" = "Image";
+
+/* Preview the exported document */
+"7WF-qd-Fp9.title" = "Preview";
+
+/* Preview the exported document */
+"7dC-HV-OTj.title" = "Preview";
+
+/* MS Word export option (export as a table with X columns) */
+"8Qb-oa-EZc.title" = "Table (2 columns)";
+
+/* */
+"8iB-js-xwM.title" = "Semi-colon (;)";
+
+/* Paper size */
+"8kD-2x-Pzi.title" = "US Tabloid/Ledger";
+
+/* */
+"AMS-xh-lbx.title" = "Save";
+
+/* Report style (export topic resources) */
+"AZW-0o-Zgc.title" = "Resource";
+
+/* Report style (generate a pre Project report) */
+"Byh-JF-ah6.title" = "Project";
+
+
+/* */
+"AfX-6D-0aT.title" = "Email";
+
+/* Paper size */
+"BRV-eX-HEh.title" = "A3";
+
+/* MS Word export style (export topics as Word headers) */
+"CBW-Ug-XYn.title" = "Headers";
+
+/* Paper size */
+"CLr-aJ-KK4.title" = "US Legal";
+
+/* */
+"Cvd-Pm-NBw.title" = "Save";
+
+/* Page size for map when exporting to PDF */
+"DvB-9W-Ezu.title" = "Map Page Size";
+
+/* Paper size */
+"E2e-Oo-bxf.title" = "A2";
+
+/* */
+"E8J-rg-yXW.title" = "Email";
+
+/* amount to scale the map when exporting */
+"Gce-Jo-bOn.title" = "50%";
+
+/* amount to scale the map when exporting */
+"GoC-rF-ZCS.title" = "150%";
+
+/* Label indicating the style settings used when exporting as MS Word */
+"IWy-kj-44v.title" = "Style";
+
+/* paper size */
+"Iyz-Yf-0nq.title" = "A0";
+
+/* */
+"Jvv-Qo-5cK.title" = "Cancel";
+
+/* label listing different export options available */
+"LHP-4x-4CB.title" = "3rd party desktop mindmap formats";
+
+/* Button to preview the exported document */
+"LU5-Uh-EzZ.title" = "Preview";
+
+/* MS Word export style */
+"LoW-JU-fKq.title" = "Table (4 columns)";
+
+/* */
+"M4i-x3-64C.title" = "Email";
+
+/* amount to scale the map when exporting */
+"Mz3-17-CIE.title" = "400%";
+
+/* Export option for MS PowerePoint export */
+"NDc-ac-Q5f.title" = "One level per slide";
+
+/* */
+"O8K-tE-LiK.title" = "Cancel";
+
+/* button to preview the exported document */
+"OhK-sY-DIn.title" = "Preview";
+
+/* */
+"Q8P-o3-hwJ.title" = "Email";
+
+/* */
+"Rsz-FL-4b5.title" = "Email";
+
+/* button to preview the exported document */
+"SBr-3b-epk.title" = "Preview";
+
+/* Paper size */
+"Shf-xg-5Vh.title" = "US Letter";
+
+/* textual description (label) */
+"Sjz-JW-BYF.title" = "Microsoft Project (.xml) export. Supported by Office 2007 and later.";
+
+/* Export option (use - as a bullet point) */
+"TND-aG-8ff.title" = "Dash (-)";
+
+/* MSPowerPoint export style option */
+"TqM-Fg-1lf.title" = "Classic";
+
+/* amount to scale the map when exporting */
+"U56-YJ-Kxc.title" = "25%";
+
+/* */
+"UHf-YB-B7i.title" = "Cancel";
+
+/* textual description (label) */
+"Um4-7F-Bkr.title" = "PNG image format. Ideal for hosting on a website or pasting into a document.";
+
+/* */
+"WdF-9z-HOC.title" = "Save";
+
+/* */
+"XIa-AX-zrr.title" = "Email";
+
+/* Paper size */
+"XTo-Xj-xAS.title" = "A1";
+
+/* Export option for CSV (use comma or semi colon as delimiter)*/
+"XrQ-w1-XW7.title" = "Comma (,)";
+
+/* textual description (label) */
+"Yam-Bf-d0A.title" = "Comma Separated Variables (.csv) Great for importing into Excel or Numbers.";
+
+/* textual description (label) */
+"Z99-aW-LRk.title" = "Microsoft Powerpoint (.pptx) Supported by Office 2007 and later and Apple Keynote.";
+
+/* scale when exporting */
+"aS3-3u-4iq.title" = "100%";
+
+/* label indicating the format of report to export */
+"bD2-I3-bYb.title" = "Report format";
+
+/* Paper size */
+"bNF-qy-xvX.title" = "US Letter";
+
+/* Paper size */
+"ceb-CP-k73.title" = "US Tabloid/Ledger";
+
+/* MS Word export format */
+"eXG-sW-6ya.title" = "Bulleted List";
+
+/* */
+"ea5-Nb-7YM.title" = "Save";
+
+/* Paper size */
+"fZ3-GO-miE.title" = "A2";
+
+/* */
+"fq8-7w-Jq9.title" = "Save";
+
+/* When exporting as Markdown format, the character to use for bullet points */
+"gvN-pk-JId.title" = "List marker";
+
+/* Paper size */
+"iA8-04-aEC.title" = "A4";
+
+/* Paper size */
+"iNO-yy-JeF.title" = "A0";
+
+/* Paper size */
+"iXh-S2-FY2.title" = "A1";
+
+/* amount to scale the map when exporting */
+"k4T-QC-PbI.title" = "10%";
+
+/* MS Word export style */
+"ldc-Kr-VqO.title" = "Table (3 columns)";
+
+/* */
+"ly3-Hf-8EX.title" = "Email";
+
+/* scale when exporting (this means 'fit everything on a single page') */
+"mAl-cg-Oij.title" = "Single Page";
+
+/* label indicating how much to scale the map when exporitng */
+"mRH-a7-Wvf.title" = "Map Scale";
+
+/* amount to scale the map when exporting */
+"nV2-Sf-LhW.title" = "75%";
+
+/* button to preview the exported document */
+"p4S-7L-1o3.title" = "Preview";
+
+/* export option (use as a bullet point) */
+"psn-Wn-LI4.title" = "Star (*)";
+
+/* Paper size */
+"rPl-uA-iO4.title" = "US Legal";
+
+/* export option (use as a bullet point) */
+"reR-KC-lWs.title" = "Plus (+)";
+
+/* Paper size */
+"sCz-aA-Gu9.title" = "A3";
+
+/* */
+"t3o-2z-RK7.title" = "Save";
+
+/* textual descriotion (label) */
+"w6K-f5-jHi.title" = "Native iThoughts format (.itmz)";
+
+/* Style as in 'MS Word export style' */
+"x0G-dT-g3G.title" = "Style";
+
+/* */
+"x7z-z0-V8c.title" = "Save";
+
+/* label to indicate the desktop mindmap format to export as */
+"xo2-Ij-pDw.title" = "Desktop Format";
+
+/*  */
+"yGe-m8-kkc.title" = "Email";
+
+/*  */
+"zli-CX-hjX.label" = "Mindmap";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Mindmap"; ObjectID = "zli-CX-hjX"; */
+"zli-CX-hjX.paletteLabel" = "Mindmap";
+
+/* button to preview the exported document */
+"zqc-g3-lAG.title" = "Preview";

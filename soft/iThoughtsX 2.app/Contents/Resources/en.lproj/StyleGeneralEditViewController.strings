@@ -1,0 +1,60 @@
+/* TW.PREFIX=Mac.StyleGeneralEditVC. */
+
+/* Topic shape */
+"SZg-v1-9lO.title" = "Circle";
+
+/* Topic shape */
+"Q2t-JN-2TZ.title" = "Diamond";
+
+/* Topic shape */
+"ASQ-cF-Mm1.title" = "Parallelogram";
+
+/* Topic shape */
+"pYE-3I-Kxw.title" = "Pill";
+
+/* Topic shape */
+"4vi-OT-MlZ.title" = "Square";
+
+/* Topic shape */
+"9sF-we-kHj.title" = "Triangle";
+
+
+
+
+
+/* Tooltip message indicating that the text (units of cost) must be prefixed with a * if it is to be positioned as a suffix to the cost value (eg *$ will place a dollar on the end of the cost - eg 123$) */
+"HbS-wk-jq5.ibShadowedToolTip" = "Prefix with * to position units as suffix";
+
+/* label indicating what the units of cost will be (usually a $ or £ type symbol) */
+"ekM-ec-QoL.title" = "Cost Units";
+
+
+/* Topic shape */
+"5px-cd-2Es.title" = "Rounded";
+
+/* Topic shape */
+"LfZ-9i-ywJ.title" = "Square Bracket";
+
+/*  */
+"Uxi-il-VRc.title" = "Callout Font";
+
+/* Topic shape */
+"Wwf-Zf-MHp.title" = "Curved Bracket";
+
+/*  */
+"X9B-SA-IdL.title" = "Callout Shape";
+
+/* Topic shape */
+"Zk8-S3-gam.title" = "Oval";
+
+/* Topic shape */
+"c7D-iQ-Sc6.title" = "None";
+
+/* Topic shape */
+"cOv-DB-SYY.title" = "Underline";
+
+/*  */
+"svt-m6-fcu.title" = "Notes Font";
+
+/* Topic shape */
+"vfN-mI-3ns.title" = "Rectangle";

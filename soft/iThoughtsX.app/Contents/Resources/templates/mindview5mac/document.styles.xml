@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<styles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1" version="1" xsi:noNamespaceSchemaLocation="styles.xsd">
+	<canvas>
+		<a n="boundary.fill.bgcolor" t="c" v="0.9333,0.9333,0.9333"/>
+		<a n="boundary.line.color" t="c" v="0.6,0.6,0.6"/>
+		<a n="boundary.line.dash" v="0"/>
+		<a n="boundary.line.width" v="1"/>
+		<a n="boundary.roundness" v="25"/>
+		<a n="branch.collapser.color" t="c" v="0.282,0.29,0.294"/>
+		<a n="branch.collapser.fill.bgcolor1" t="c" v="0.827,0.827,0.827"/>
+		<a n="branch.collapser.fill.bgcolor2" t="c" v="0.827,0.827,0.827"/>
+		<a n="branch.collapser.line.color" t="c" v="0.282,0.29,0.294"/>
+		<a n="branch.collapser.type" v="1"/>
+		<a n="branch.frame.fill.bgcolor1" t="c" v="1,1,1,0"/>
+		<a n="branch.frame.fill.bgcolor2" t="c" v="1,1,1,0"/>
+		<a n="branch.image.gap" v="6"/>
+		<a n="branch.text.alignment" v="2"/>
+		<a n="branch.text.bgcolor" t="c" v="1,1,1,0"/>
+		<a n="document.bgcolor" t="c" v="1,1,1"/>
+		<a n="document.gap.horizontal" v="30"/>
+		<a n="document.gap.vertical" v="8"/>
+		<a n="floating.text.font.size" v="13"/>
+	</canvas>
+	<connection>
+		<a n="connection.hover.color" t="c" v="0,0,1"/>
+		<a n="connection.line.color" t="c" v="0.6,0.6,0.6"/>
+		<a n="connection.line.width" v="1.4"/>
+	</connection>
+
+	<!--REPLACE-->
+
+</styles>

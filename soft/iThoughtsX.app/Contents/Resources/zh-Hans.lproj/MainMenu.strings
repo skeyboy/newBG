@@ -1,0 +1,927 @@
+"fxg-2v-rD3.title"="上图";
+"9o5-6c-FGs.title"="下图";
+
+
+
+/* Menu option: Similar to snap to grid only it will snap to adjacent topics */
+"jOv-kZ-CW3.title" = "对齐到主题";
+
+
+/* Menu option: as in Select All Related Topics */
+"Dk2-B0-clJ.title" = "所有相关";
+
+/* Menu option: Create a new floating topic (with relationship link) to the right */
+"R6V-wl-VnO.title" = "右侧相关浮动";
+
+/* Menu option: Create a new floating topic (with relationship link) to the left */
+"zlY-RL-wxH.title" = "左侧相关浮动";
+
+/* Menu option: Create a new floating topic (with relationship link) above */
+"GV3-5C-UTW.title" = "上方相关浮动";
+
+/* Menu option: Create a new floating topic (with relationship link) below */
+"knY-Er-MN9.title" = "下方相关浮动";
+
+/* Menu option: Align topics (using their centers) */
+"WoB-em-7PF.title" = "中间对齐";
+
+/* Menu option: Align topics (using their centers) */
+"OqE-5o-wvd.title" = "中间对齐";
+
+
+
+
+/* Menu option: Administer the various proerties of a relationship (color, style etc) */
+"YFq-cx-NgD.title" = "属性​​";
+
+
+
+/* Share the map on the Biggerplate.com website */
+"eFD-f5-3gM.title" = "在 Biggerplate.com 上分享";
+
+
+/* Menu option: Option to install a 'Safari Extension' */
+"v5X-f9-NNI.title" = "安装 Safari 扩展";
+
+/* Menu option: Open a favourite map (similar to Open Recent) */
+"dX0-cI-Lnq.title" = "打开收藏夹";
+
+
+
+/* Menu option: */
+"eZt-cy-GX0.title" = "附件";
+
+/* Menu option: View Attachment */
+"uFs-bq-GJX.title" = "视图";
+
+/* Menu option: Delete Attachment */
+"XLJ-bu-zK5.title" = "删除";
+
+/* Menu option: Show (Attachment) in Finder */
+"EUO-5y-xHW.title" = "在查找器中显示";
+
+
+
+
+
+/* Menu option: Sub menu of Copy As */
+"wfY-We-vbe.title" = "电子邮件列表";
+
+/* Menu option: Sort as in 'Sort by priority' */
+"mUT-iU-Lzk.title" = "排序";
+
+/* Menu option: sub menu of Sort (i.e. the rules by which the topics will be sorted) */
+"iK3-UV-K2e.title" = "规则";
+
+/* Menu option: sub menu of Sort (i.e. sort the topics randomly) */
+"VEj-0b-jVV.title" = "随机";
+
+/* Menu option: sub menu of Sort->Random (i.e. sort the child topics randomly) */
+"aFN-YO-eIX.title" = "子主题";
+
+/* Menu option: sub menu of Sort->Random (i.e. sort the entire branch randomly) */
+"tO9-yA-Vpx.title" = "分支";
+
+
+/* Menu option: sub menu of View (i.e. filter the mindmap based on various criteria) */
+"Gc3-9M-CAZ.title" = "筛选器";
+
+
+
+
+
+
+
+
+
+
+/* Menu option */
+"19.title" = "视图";
+
+/* Menu option */
+"56.title" = "iThoughtsX";
+
+/* Menu option */
+"57.title" = "iThoughtsX";
+
+/* Menu option */
+"58.title" = "关于 iThoughtsX";
+
+/* Menu option */
+"72.title" = "打开…";
+
+/* Menu option */
+"73.title" = "关闭";
+
+/* Menu option */
+"75.title" = "保存…";
+
+/* Menu option */
+"78.title" = "打印…";
+
+/* Menu option */
+"81.title" = "文件";
+
+/* Menu option to create a new map/document */
+"82.title" = "新建导图            ";
+
+/* Menu option */
+"83.title" = "文件";
+
+/* Menu option */
+"112.title" = "恢复至已保存版本";
+
+/* Menu option */
+"124.title" = "打开最近文件";
+
+/* Menu option */
+"125.title" = "打开最近文件";
+
+/* Clear recent documents menu */
+"126.title" = "清除菜单";
+
+/* Menu option */
+"129.title" = "偏好设置…";
+
+/* Menu option */
+"130.title" = "服务";
+
+/* Menu option */
+"131.title" = "服务";
+
+/* Menu option */
+"134.title" = "隐藏 iThoughtsX";
+
+/* Menu option */
+"136.title" = "退出 iThoughtsX";
+
+/* Menu option */
+"145.title" = "隐藏其他项";
+
+/* Menu option */
+"150.title" = "全部显示";
+
+/* Menu option */
+"195.title" = "停止朗读";
+
+/* Menu option */
+"196.title" = "开始朗读";
+
+/* Menu option */
+"197.title" = "复制";
+
+/* Menu option: as in Select All Topics */
+"eIN-ru-8hJ.title" = "所有主题";
+
+/* Menu option - sub menu of the 'Copy' menu */
+"199.title" = "至剪贴板";
+
+/* Menu option */
+"200.title" = "拼写和语法";
+
+/* Menu option */
+"201.title" = "立即检查文稿";
+
+/* Menu option */
+"202.title" = "删除";
+
+/* Menu option */
+"203.title" = "粘贴";
+
+/* Menu option */
+"204.title" = "显示拼写和语法";
+
+/* Menu option */
+"205.title" = "编辑";
+
+/* Menu option */
+"207.title" = "撤消";
+
+/* Menu option */
+"208.title" = "查找下一个";
+
+/* Menu option */
+"209.title" = "查找…";
+
+/* Menu option */
+"210.title" = "跳到所选内容";
+
+/* Menu option */
+"211.title" = "语音";
+
+/* Menu option */
+"212.title" = "语音";
+
+/* Menu option */
+"213.title" = "查找上一个";
+
+/* Menu option */
+"215.title" = "重做";
+
+/* Menu option */
+"216.title" = "拼写和语法";
+
+/* Menu option */
+"217.title" = "编辑";
+
+/* Menu option */
+"218.title" = "查找";
+
+/* Menu option */
+"219.title" = "键入时检查拼写";
+
+/* Menu option */
+"220.title" = "查找";
+
+/* Menu option */
+"221.title" = "查找所选内容";
+
+/* Menu option */
+"346.title" = "检查拼写和语法";
+
+/* Menu option */
+"348.title" = "替换";
+
+/* Menu option */
+"349.title" = "替换";
+
+/* Menu option */
+"350.title" = "智能拷贝/粘贴";
+
+/* Menu option */
+"351.title" = "智能引号";
+
+/* Menu option */
+"354.title" = "智能链接";
+
+/* Menu option */
+"374.title" = "格式";
+
+/* Menu option */
+"375.title" = "格式";
+
+/* Menu option */
+"376.title" = "字体";
+
+/* Menu option */
+"387.title" = "字体";
+
+/* Menu option */
+"388.title" = "显示字体";
+
+/* Menu option */
+"389.title" = "粗体";
+
+/* Menu option */
+"390.title" = "斜体";
+
+/* Menu option (text underline) */
+"391.title" = "下划线";
+
+/* Menu option */
+"393.title" = "加大";
+
+/* Menu option */
+"394.title" = "减小";
+
+/* Menu option */
+"396.title" = "字距调整";
+
+/* Menu option */
+"397.title" = "连字";
+
+/* Menu option */
+"398.title" = "基线";
+
+/* Menu option */
+"400.title" = "显示颜色";
+
+/* Menu option */
+"402.title" = "复制样式";
+
+/* Menu option */
+"403.title" = "粘贴样式";
+
+/* Menu option */
+"404.title" = "基线";
+
+/* Menu option */
+"405.title" = "使用默认设置";
+
+/* Menu option */
+"406.title" = "上标";
+
+/* Menu option */
+"407.title" = "下标";
+
+/* Menu option */
+"408.title" = "升高";
+
+/* Menu option */
+"409.title" = "降低";
+
+/* Menu option */
+"410.title" = "连字";
+
+/* Menu option */
+"411.title" = "使用默认设置";
+
+/* Menu option */
+"412.title" = "不使用";
+
+/* Menu option */
+"413.title" = "全部使用";
+
+/* Menu option */
+"414.title" = "字距调整";
+
+/* Menu option */
+"415.title" = "使用默认设置";
+
+/* Menu option */
+"416.title" = "不使用";
+
+/* Menu option */
+"417.title" = "紧排";
+
+/* Menu option */
+"418.title" = "松排";
+
+/* Menu option */
+"449.title" = "转换";
+
+/* Menu option */
+"450.title" = "转换";
+
+/* Menu option */
+"451.title" = "变为大写";
+
+/* Menu option */
+"452.title" = "变为小写";
+
+/* Menu option */
+"453.title" = "首字母大写";
+
+/* Menu option */
+"457.title" = "智能破折号";
+
+/* Menu option */
+"458.title" = "显示替换";
+
+/* Menu option */
+"462.title" = "文本替换";
+
+/* Menu option */
+"465.title" = "自动纠正拼写";
+
+/* Menu option */
+"491.title" = "帮助";
+
+/* Menu option */
+"492.title" = "帮助";
+
+/* Menu option */
+"495.title" = "文本";
+
+/* Menu option */
+"496.title" = "文本";
+
+/* Menu option */
+"497.title" = "左对齐";
+
+/* Menu option */
+"498.title" = "中间对齐";
+
+/* Menu option */
+"499.title" = "两端对齐";
+
+/* Menu option */
+"500.title" = "右对齐";
+
+/* Menu option */
+"502.title" = "书写方向";
+
+/* Menu option */
+"504.title" = "显示标尺";
+
+/* Menu option */
+"505.title" = "复制标尺";
+
+/* Menu option */
+"506.title" = "粘贴标尺";
+
+/* Menu option */
+"507.title" = "书写方向";
+
+/* Menu option */
+"508.title" = "段落";
+
+/* Menu option */
+"509.title" = "\t默认";
+
+/* Menu option */
+"510.title" = "\t从左至右";
+
+/* Menu option */
+"511.title" = "\t从右至左";
+
+/* Menu option */
+"513.title" = "选择";
+
+/* Menu option */
+"514.title" = "\t默认";
+
+/* Menu option */
+"515.title" = "\t从左至右";
+
+/* Menu option */
+"516.title" = "\t从右至左";
+
+/* Menu option */
+"532.title" = "查找和替换…";
+
+/* Menu option */
+"560.title" = "主题";
+
+/* Menu option */
+"561.title" = "主题";
+
+/* Menu option - sub menu of 'new topic' */
+"562.title" = "子主题";
+
+/* Menu option - sub menu of 'new topic' */
+"563.title" = "在当前主题之前";
+
+/* Menu option - sub menu of 'new topic' */
+"566.title" = "在当前主题之后";
+
+/* Menu option - sub menu of 'new topic' */
+"567.title" = "父主题";
+
+/* Menu option - sub menu of 'new topic' */
+"568.title" = "子级";
+
+/* Menu option - sub menu of 'new topic' */
+"574.title" = "浮动";
+
+/* Menu option - topic shape */
+"655.title" = "形状";
+
+/* Menu option - topic shape */
+"656.title" = "形状";
+
+/* Topic shape */
+"657.title" = "矩形";
+
+/* Topic shape */
+"658.title" = "圆形";
+
+/* short for 'automatic' */
+"659.title" = "自动";
+
+/* Topic shape */
+"660.title" = "椭圆";
+
+/* Topic shape */
+"661.title" = "下划线";
+
+/* Topic shape */
+"663.title" = "无";
+
+/* Menu option - convert the current topic to a floating topic */
+"672.title" = "浮动";
+
+/* Menu option - sub menu of new topic */
+"676.title" = "标注";
+
+/* Menu option - sub menu of new topic */
+"690.title" = "标注";
+
+
+/* Menu Option - set the branch layout (horizontal, vertical etc) */
+"8ze-MF-FqZ.title" = "分支布局";
+
+
+/* Menu option tooltip */
+"794.ibShadowedToolTip" = "仅删除选定主题并重新配置其子主题。";
+
+/* Menu option */
+"794.title" = "删除主题";
+
+/* Menu option */
+"797.title" = "删除分支";
+
+/* Menu option */
+"798.title" = "新建关系";
+
+/* Menu option */
+"803.title" = "视图";
+
+/* Menu option */
+"807.title" = "显示工具栏";
+
+/* Menu option */
+"808.title" = "自定义工具栏…";
+
+/* Menu option */
+"810.title" = "注释窗口位置";
+
+/* Menu option */
+"811.title" = "注释窗口位置";
+
+/* Menu option */
+"812.title" = "右侧";
+
+/* Menu option */
+"813.title" = "左侧";
+
+/* Menu option */
+"814.title" = "底部";
+
+/* Menu option */
+"815.title" = "顶部";
+
+/* Menu option - create a boundary around the selected branch */
+"824.title" = "边界";
+
+/* Menu option - create a relationship link line between 2 topics */
+"843.title" = "关系";
+
+/* Menu option - create a relationship link line between 2 topics */
+"844.title" = "关系";
+
+/* Menu option - line style */
+"848.title" = "虚线";
+
+/* Menu option - choose arrow style at start of relationship link line */
+"850.title" = "开始箭头";
+
+/* Menu option - choose arrow style at start of relationship link line */
+"851.title" = "开始箭头";
+
+/* Menu option - arrow head style for relationship link line */
+"852.title" = "无";
+
+/* Menu option - choose arrow style at end of relationship link line */
+"853.title" = "结束箭头";
+
+/* Menu option - choose arrow style at end of relationship link line */
+"854.title" = "结束箭头";
+
+/* Menu option - arrow head style for relationship link line */
+"855.title" = "无";
+
+/* Menu option - arrow head style for relationship link line */
+"856.title" = "箭头";
+
+/* Menu option - arrow head style for relationship link line */
+"857.title" = "球状";
+
+/* Menu option - arrow head style for relationship link line */
+"858.title" = "箭头";
+
+/* Menu option - arrow head style for relationship link line */
+"859.title" = "球状";
+
+/* Menu option */
+"868.title" = "在线帮助";
+
+/* Menu option */
+"869.title" = "联系开发人员";
+
+/* Menu option */
+"873.title" = "分享...";
+
+/* Menu option */
+"875.title" = "分享选定内容...";
+
+/* Menu option */
+"898.title" = "窗口";
+
+/* Menu option */
+"899.title" = "窗口";
+
+/* Menu option */
+"900.title" = "最小化";
+
+/* Menu option */
+"901.title" = "缩放";
+
+/* Menu option */
+"903.title" = "全部调到前面";
+
+/* Menu option */
+"907.title" = "编辑";
+
+/* Menu option */
+"960.title" = "复制为";
+
+/* Menu option */
+"961.title" = "复制为";
+
+/* Menu option - sub menu of 'copy as' */
+"963.title" = "图像";
+
+/* Menu option - sub menu of 'delete' */
+"0Ts-Jb-ewc.title" = "分支";
+
+/* Menu option - assign a % progress to the topic */
+"1OS-Np-YVL.title" = "进度";
+
+/* Menu option - sub menu of 'copy' */
+"4Da-JH-t0E.title" = "至新导图";
+
+/* Menu option - sub menu of 'auto numbering' */
+"57V-sQ-KAQ.title" = "在选定位置处开始";
+
+/* Menu option */
+"5cF-ce-Bcq.title" = "删除";
+
+/* Menu option - fit map to window */
+"6N0-zL-aHj.title" = "适配导图";
+
+/* Menu option */
+"lbC-ms-aLb.title" = "选择";
+
+/* Menu option - option when choosing progress/effort for a topic (means sum/average of child progress/effort values) */
+"8qa-bF-LOa.title" = "汇总";
+
+/* Menu option - e.g. distribute topics evenly */
+"9PF-YH-n0I.title" = "分布";
+
+/* Menu option - justification */
+"9qU-Kt-0uD.title" = "右侧";
+
+/* Menu option - auto numbering option */
+"A3T-B9-KsO.title" = "从子主题开始";
+
+/* Menu option */
+"Cls-Ia-hXE.title" = "带格式粘贴";
+
+/* Menu option - number 0-5 assigned to a topic */
+"CxL-2b-GfS.title" = "优先级";
+
+/* Menu option - percentage assigned to a topic */
+"D8i-5z-NgC.title" = "进度";
+
+/* Menu option - sub menu for 'new map' */
+"Dg7-3I-f5x.title" = "     （使用选择）";
+
+/* Menu option */
+"EQT-Bh-T47.title" = "日历";
+
+/* Menu option - when assigning a progress or effort to a topic (clears it) */
+"Ezr-xl-44P.title" = "未设定";
+
+/* Menu option - sub menu of align */
+"GkO-3A-Bx4.title" = "水平";
+
+/* Menu option - show presentation slides */
+"GoP-Kr-DU2.title" = "幻灯片列表";
+
+/* Menu option - progress value */
+"H4S-Sg-Wwa.title" = "65%";
+
+/* Menu option */
+"HLG-23-fM1.title" = "新建";
+
+/* Menu option */
+"ICi-2h-0GM.title" = "放大";
+
+/* Menu option - sub menu of 'select topics' */
+"jEL-cs-F3Q.title" = "同级主题";
+
+/* Menu option */
+"J8d-tB-WRm.title" = "日历";
+
+/* Menu option - sub menu of 'auto numbering' */
+"JAK-n9-lvO.title" = "在选定位置处开始";
+
+/* Menu option - presentation slides */
+"JNh-Jo-6uV.title" = "当前";
+
+/* Menu option */
+"K15-6c-djW.title" = "超链接";
+
+/* Menu option - sub menu of 'select topics' */
+"swv-5a-Est.title" = "子主题";
+
+/* Menu option */
+"Kni-be-b1u.title" = "对齐";
+
+/* Menu option */
+"Muu-Ja-duc.title" = "暂停主题评价";
+
+/* Menu option - eg arrange topics equally spaced */
+"NqX-Sg-EMc.title" = "安排";
+
+/* Menu option */
+"PIV-0a-ee5.title" = "离开 AppStore 审查";
+
+/* Menu option */
+"Ply-ZX-QBs.title" = "重置注释字体";
+
+/* Menu option - eg arrange topics equally spaced */
+"QBC-Oy-jrE.title" = "安排";
+
+/* Menu option */
+"QCJ-fY-NXd.title" = "删除";
+
+/* Menu option */
+"Qrg-LY-Wrd.title" = "显示任务面板";
+
+/* Menu option - as in presentation slide */
+"Qwr-vr-OmU.title" = "前一幻灯片";
+
+/* Menu option */
+"ROI-Ez-zhL.title" = "超链接";
+
+/* Menu option */
+"RhV-wh-rDc.title" = "3";
+
+/* Menu option */
+"Ryx-nQ-N19.title" = "剪切";
+
+/* Menu option */
+"SH8-0L-6w2.title" = "打开";
+
+/* Menu option - option when setting progress value on topic */
+"SfY-ar-ULn.title" = "完成";
+
+/* Menu option */
+"V8U-aC-hXf.title" = "显示/隐藏注释窗口";
+
+/* short for 'automatic' */
+"VQF-03-ZDs.title" = "自动";
+
+/* Menu option - progress setting */
+"VaR-PI-oE3.title" = "10%";
+
+/* Menu option */
+"Vo0-qk-XL1.title" = "底部";
+
+/* Menu option */
+"Vrr-fY-PaD.title" = "4";
+
+/* Menu option */
+"6SM-Kb-lio.title" = "选择";
+
+/* Menu option - presentation slides */
+"XrS-WB-77d.title" = "导出幻灯片（至 PDF）";
+
+/* Menu option */
+"Xzg-x1-7Mr.title" = "新建主题";
+
+/* Menu option - as in task management */
+"YEA-xX-7XT.title" = "任务";
+
+/* Menu option - as in presnetation */
+"YTn-HQ-cLD.title" = "当前";
+
+/* Menu option - fit the selected topics into the window */
+"YUK-Ro-tIl.title" = "适配选择";
+
+/* Menu option - option for progress or priorty */
+"YiG-Nm-cpK.title" = "未设定";
+
+/* Menu option - sub menu of 'select topics' */
+"UZa-J2-KBh.title" = "同级主题";
+
+/* Menu option */
+"ZNO-61-TyB.title" = "缩放";
+
+/* Menu option */
+"aWi-fb-MmS.title" = "缩小";
+
+/* Menu option - email the topic as a calendar event */
+"aef-MG-Dmm.title" = "电子邮件事件";
+
+/* Menu option */
+"ahX-G0-9FX.title" = "缩放";
+
+/* Menu option */
+"aoU-HR-ISt.title" = "顶部";
+
+/* Menu option - next slide in the presentation */
+"asZ-K9-lw0.title" = "下一幻灯片";
+
+/* Menu option - start/play the presentation */
+"ayc-Xm-ERc.title" = "当前幻灯片";
+
+/* Menu option */
+"bRd-Sx-fq2.title" = "左侧";
+
+/* Menu option - set the topic to use the automatic style settings */
+"bcq-st-gJV.title" = "自动样式";
+
+/* Menu option - create a new 'presentation' slide */
+"buR-Jb-Mc8.title" = "制作幻灯片";
+
+/* Menu option - progress value */
+"cdV-UD-rya.title" = "35%";
+
+/* Menu option */
+"d5n-bb-sk8.title" = "删除线";
+
+/* Menu option - sub menu of 'autonumbering' */
+"dEI-5E-DNy.title" = "从子主题开始";
+
+/* Menu option - create a calendar event from the topic */
+"dN9-k4-e58.title" = "创建事件";
+
+/* Menu option - email a reminder event */
+"fIb-aD-qZy.title" = "电子邮件提醒";
+
+/* Topic shape */
+"fsr-Xy-RcV.title" = "方形支架";
+
+/* Menu option - create a reminder event */
+"fzr-aP-VwZ.title" = "创建提醒";
+
+/* Menu option - progress value */
+"gCK-jB-LL9.title" = "25%";
+
+/* Menu option */
+"hRG-ec-miY.title" = "剪切";
+
+/* Menu option - edit the map style settings */
+"inu-q5-bMt.title" = "编辑样式";
+
+/* Menu option - progress value */
+"k69-jv-aie.title" = "未开始";
+
+/* Menu option */
+"kpX-zA-Cea.title" = "研究";
+
+/* Menu option - as in task management */
+"kqK-0B-8Ty.title" = "任务";
+
+/* Menu option */
+"mgp-Ex-at7.title" = "1";
+
+/* Menu option */
+"nBq-2r-KVW.title" = "自动编号";
+
+/* Menu option */
+"o7g-Us-heh.title" = "进入全屏";
+
+/* Menu option - as in hyperlink */
+"o9T-oL-MaW.title" = "链接";
+
+/* Menu option */
+"q6U-Lb-C3d.title" = "对齐";
+
+/* Menu option */
+"q7n-5Z-RU4.title" = "优先级";
+
+/* Menu option - alignment */
+"qpa-Au-tcr.title" = "垂直";
+
+/* Menu option - progress value */
+"qsw-3l-4Ck.title" = "75%";
+
+/* Menu option - focus on the selected topics (hiding others) */
+"tKN-vb-V2H.title" = "聚焦于选定主题";
+
+
+/* Menu option - progress value */
+"ulX-uh-x7r.title" = "50%";
+
+/* Topic shape */
+"upt-SS-s5g.title" = "弧形支架";
+
+/* Menu option - as in distribute topics evenly */
+"vXJ-Nh-Zkk.title" = "分布";
+
+/* Menu option - progress value */
+"vo4-tz-auI.title" = "90%";
+
+/* Menu option */
+"vuu-nS-8ap.title" = "新建";
+
+/* Menu option */
+"wFS-WN-uTL.title" = "5";
+
+/* Menu option */
+"y1B-7W-XC9.title" = "在主题/注释编辑之间切换";
+
+/* Menu option - as in presentation slide */
+"y6G-ji-qsT.title" = "删除幻灯片";
+
+/* Menu option */
+"z2p-Ya-4hA.title" = "自动编号";
+
+/* Menu option */
+"zH4-M6-tKW.title" = "新建主题";
+
+/* Menu option - as in presentation slide */
+"zho-ll-Zuk.title" = "第一张幻灯片";
+
+/* Menu option */
+"zoe-hk-iIf.title" = "隐藏已完成任务";
+
+/* Menu option */
+"zqF-pS-qCw.title" = "无";
+
+/* Menu option */
+"zye-Ai-dlo.title" = "2";

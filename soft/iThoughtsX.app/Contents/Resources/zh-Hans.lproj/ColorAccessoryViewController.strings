@@ -1,0 +1,14 @@
+/*  */
+"8.title" = "自动";
+
+/* As in 'pastel' colors */
+"10.title" = "粉彩";
+
+/* As in 'grayscale' colors */
+"14.title" = "灰度";
+
+/* As in 'saturated' colors */
+"16.title" = "饱和";
+
+/*  */
+"20.title" = "导图";

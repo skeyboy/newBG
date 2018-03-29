@@ -1,0 +1,70 @@
+
+/* Checkbox option to use the map defaults (for layout, link style etc)  */
+"tdN-as-WF8.title" = "Use Map Defaults";
+
+
+/* Link style for level 1 topics */
+"ARu-Sf-vvX.title" = "Level1 Link Style";
+/* inter-topic link line style */
+"lTj-QK-kaT.title" = "Tapered";
+/* Link style for topics >1 deep */
+"00s-So-eLv.title" = "Level2+ Link Style";
+
+
+/* inter-topic link line style */
+"2Cy-97-ukB.title" = "S Bend";
+/* inter-topic link line style */
+"2tc-0C-lN4.title" = "Straight";
+/* inter-topic link line style */
+"4vV-Jf-7Tq.title" = "Kinked";
+/* inter-topic link line style */
+"Akh-wT-5rV.title" = "Curved";
+/* inter-topic link line style */
+"FG5-Us-TWb.title" = "S Bend";
+/* inter-topic link line style */
+"IHs-Ws-AzG.title" = "Reverse Taper";
+/* inter-topic link line style */
+"XFj-pH-Lfe.title" = "Right Angled";
+/* inter-topic link line style */
+"eWg-M6-kvI.title" = "Straight";
+/* inter-topic link line style */
+"fA0-R9-nhd.title" = "Kinked";
+/* inter-topic link line style */
+"ffR-gp-iKw.title" = "Curved";
+/* inter-topic link line style */
+"riU-Bw-Bub.title" = "Right Angled";
+/* inter-topic link line style */
+"vHu-U6-uUv.title" = "Reverse Taper";
+
+
+
+
+
+/* label for auto alignment options (full, partial, manual) */
+"pfi-Al-qGR.title" = "Auto Align";
+/* Automatic layout setting (fully automatic) */
+"3ly-yD-Ptg.title" = "Full";
+/* Automatic layout setting (eg neither manual nor fully automatic)*/
+"t7d-YZ-Vno.title" = "Partial";
+/* Automatic layout setting (manual - not automatic) */
+"UYX-2Z-koR.title" = "Manual";
+
+
+
+/* Label for setting map layout (vertical, horzontal, fishbone etc) */
+"rGq-Mv-goK.title" = "Map Layout";
+/* overall map layout style */
+"VXe-1v-AAD.title" = "  Top Down";
+/* overall map layout style */
+"ZuS-Tn-swH.title" = "  Horizontal";
+/* overall map layout style */
+"h9h-jK-qVp.title" = "  Fishbone";
+/* overall map layout style */
+"jVb-n5-484.title" = "  Vertical";
+
+
+
+
+
+
+

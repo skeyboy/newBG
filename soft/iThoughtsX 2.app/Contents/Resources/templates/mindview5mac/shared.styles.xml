@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<styles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1" version="1" xsi:noNamespaceSchemaLocation="styles.xsd">
+	<canvas>
+		<a n="boundary.fill.bgcolor" t="c" v="0.9333,0.9333,0.9333"/>
+		<a n="boundary.line.color" t="c" v="0.6,0.6,0.6"/>
+		<a n="boundary.line.dash" v="0"/>
+		<a n="boundary.line.width" v="1"/>
+		<a n="boundary.roundness" v="20"/>
+		<a n="branch.frame.fill.bgcolor1" t="c" v="1,1,1,0"/>
+		<a n="branch.frame.fill.bgcolor2" t="c" v="1,1,1,0"/>
+		<a n="branch.image.gap" v="6"/>
+		<a n="branch.line.color" t="c" v="0.6,0.6,0.6"/>
+		<a n="branch.line.width" v="1.5"/>
+		<a n="branch.text.alignment" v="2"/>
+		<a n="branch.text.bgcolor" t="c" v="1,1,1,0"/>
+		<a n="floating.frame.bgcolor" t="c" v="0.9333,0.9333,0.9333"/>
+		<a n="floating.frame.fgcolor" t="c" v="0.6,0.6,0.6"/>
+		<a n="floating.text.bgcolor" t="c" v="1,1,1,0"/>
+		<a n="floating.text.fgcolor" t="c" v="0.298,0.298,0.298"/>
+		<a n="floating.text.font.bold" v="0"/>
+		<a n="floating.text.font.italic" v="0"/>
+		<a n="floating.text.font.name" v="Helvetica"/>
+		<a n="floating.text.font.size" v="13"/>
+	</canvas>
+	<rootbranch>
+		<a n="branch.frame.fill.bgcolor1" t="c" v="0.8706,0.5333,0.5059"/>
+		<a n="branch.frame.fill.bgcolor2" t="c" v="0.7294,0.1451,0.0706"/>
+		<a n="branch.frame.line.color" t="c" v="0.2902,0.298,0.302"/>
+		<a n="branch.frame.type" v="3"/>
+		<a n="branch.picture.position" v="0"/>
+		<a n="branch.text.fgcolor" t="c" v="g:1,1"/>
+		<a n="branch.text.font.bold" v="1"/>
+		<a n="branch.text.font.italic" v="0"/>
+		<a n="branch.text.font.name" v="Helvetica-Bold"/>
+		<a n="branch.text.font.size" v="21"/>
+	</rootbranch>
+	<mainbranch>
+		<a n="boundary.fill.bgcolor" t="c" v="0.9333,0.9333,0.9333"/>
+		<a n="boundary.line.color" t="c" v="0.6,0.6,0.6"/>
+		<a n="branch.baseline" v="1"/>
+		<a n="branch.frame.fill.bgcolor1" t="c" v="0.6824,0.7725,0.7137"/>
+		<a n="branch.frame.fill.bgcolor2" t="c" v="0.4941,0.5569,0.5216"/>
+		<a n="branch.frame.line.color" t="c" v="0.2902,0.298,0.302"/>
+		<a n="branch.frame.type" v="3"/>
+		<a n="branch.text.fgcolor" t="c" v="g:1,1"/>
+		<a n="branch.text.font.bold" v="1"/>
+		<a n="branch.text.font.italic" v="0"/>
+		<a n="branch.text.font.name" v="Helvetica-Bold"/>
+		<a n="branch.text.font.size" v="18"/>
+	</mainbranch>
+	<subbranch>
+		<a n="branch.baseline" v="1"/>
+		<a n="branch.frame.fill.bgcolor1" t="c" v="0.9216,0.9294,0.8314"/>
+		<a n="branch.frame.fill.bgcolor2" t="c" v="0.7843,0.7529,0.6588"/>
+		<a n="branch.frame.line.color" t="c" v="0.2902,0.298,0.302"/>
+		<a n="branch.frame.type" v="3"/>
+		<a n="branch.text.fgcolor" t="c" v="0.2902,0.298,0.302"/>
+		<a n="branch.text.font.bold" v="0"/>
+		<a n="branch.text.font.italic" v="0"/>
+		<a n="branch.text.font.name" v="Helvetica"/>
+		<a n="branch.text.font.size" v="16"/>
+	</subbranch>
+	<subsubbranch>
+		<a n="branch.baseline" v="1"/>
+		<a n="branch.frame.fill.bgcolor1" t="c" v="1,1,1,0"/>
+		<a n="branch.frame.fill.bgcolor2" t="c" v="1,1,1,0"/>
+		<a n="branch.frame.line.color" t="c" v="1,1,1,0"/>
+		<a n="branch.frame.shadow.type" v="0"/>
+		<a n="branch.picture.position" v="0"/>
+		<a n="branch.text.fgcolor" t="c" v="0.2,0.2,0.2"/>
+		<a n="branch.text.font.bold" v="0"/>
+		<a n="branch.text.font.italic" v="0"/>
+		<a n="branch.text.font.name" v="Helvetica"/>
+		<a n="branch.text.font.size" v="14"/>
+	</subsubbranch>
+	
+	<!--REPLACE-->
+	
+</styles>

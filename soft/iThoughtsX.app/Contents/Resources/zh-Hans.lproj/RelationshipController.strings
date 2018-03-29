@@ -1,0 +1,59 @@
+/* Menu option: Swap the ends of the relationship */
+"RwN-L0-WXx.title" = "交换结束";
+
+/* Menu option: Remove text from the relationship */
+"gsQ-19-6X9.title" = "删除文本";
+
+/* Menu option: Apply the default settings to the relationship (color etc) */
+"c6e-yV-AuX.title" = "应用默认设置";
+
+
+/* Menu option: Arrow head style (circle) */
+"1F6-zo-fq5.title" = "球状";
+
+/* Menu option: Arrow head style */
+"5Xs-cj-p4F.title" = "无";
+
+/* Menu option: Arrow head style (normal arrow) */
+"7Jj-bB-ByE.title" = "箭头";
+
+/* Menu option: relationship link line stye */
+"9Dz-RM-Jcc.title" = "弯曲";
+
+/* Menu option: relationship link line stye */
+"HvN-FG-Fwr.title" = "成角度";
+
+/* Menu option: relationship link line stye (summary is the name I give this style of link - it is summary as in to summarise a collection of topics) */
+"PZb-9o-pIq.title" = "摘要";
+
+/* Label: Indicating the arrow on the end of the relationship link line */
+"QOJ-76-427.title" = "结束箭头";
+
+/* Menu option: relationship link line stye */
+"Qjq-7B-ZHQ.title" = "直线";
+
+/* Menu option: Arrow head style (normal arrow) */
+"VVc-et-21G.title" = "箭头";
+
+/* Menu option: Arrow head style */
+"YJw-5J-BnX.title" = "无";
+
+/* Label: Type of the relationship link line (straight, curved etc) */
+"YgO-8j-GPe.title" = "类型";
+
+/* LAbel title */
+"gBj-CJ-vTp.title" = "颜色";
+
+/* Menu option: Arrow head style (circle) */
+"j4n-Sh-WFe.title" = "球状";
+
+/* Checkbox option - indicating that the relationship link line is dashed */
+"nAf-6L-gP4.title" = "虚线";
+
+/* Label: Indicating the arrow on the start of the relationship link line */
+"zTG-Iu-XFC.title" = "开始箭头";
+
+
+
+/* Button: Delete the relationship link line */
+"3nb-1O-Hhn.title" = "删除";

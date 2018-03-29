@@ -1,0 +1,37 @@
+/* Describes how rainbow colors are distributed around the central topic */
+"on2-E1-NrR.title" = "表盘";
+
+
+
+/* A map style option */
+"16y-IS-tnI.title" = "全彩";
+
+/* First color in a range of colors */
+"4LA-yv-LbW.title" = "开始颜色";
+
+/* A map style option (wireframe means no fill) */
+"B1u-MR-JT0.title" = "线框（彩色 + 文本）";
+
+/* style option - do child topics inherit their color from their parent */
+"DST-nI-4bP.title" = "沿用颜色";
+
+/*  */
+"Xr6-B2-LFz.title" = "范围 (%)";
+
+/* Describes the order in which rainbow colors are distributed around the central topic */
+"XwN-U6-OJu.title" = "顺时针";
+
+/*  */
+"dof-gb-6Ph.title" = "导图样式";
+
+/* A Style setting where colors are chosen automatically from a rainbow palette */
+"gCI-s2-6bV.title" = "彩虹颜色";
+
+/* A map style option (wireframe means no fill) */
+"o1Z-WV-yUq.title" = "线框（彩色）";
+
+/* Canvas is the background color/pattern of the map */
+"o4C-bB-Mk6.title" = "画布";
+
+/* A map style option (wireframe means no fill, monochrome means black and white) */
+"y5b-Ru-9Hc.title" = "线框（单色）";

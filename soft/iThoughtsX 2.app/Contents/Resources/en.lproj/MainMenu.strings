@@ -1,0 +1,1068 @@
+/* TW.PREFIX=Mac.MainMenu. */
+
+
+/* Topic shape */
+"D3j-8v-eoI.title" = "Circle";
+
+/* Topic shape */
+"ymL-xy-qRD.title" = "Diamond";
+
+/* Topic shape */
+"KUh-NL-hDk.title" = "Parallelogram";
+
+/* Topic shape */
+"egd-oo-iY0.title" = "Pill";
+
+/* Topic shape */
+"1og-k8-kWN.title" = "Square";
+
+/* Topic shape */
+"6PA-vF-1Ka.title" = "Triangle";
+
+
+
+
+
+/* Menu option - Copy As -> Flashcards (used for revision) */
+"9jq-nZ-VEd.title" = "Flashcards";
+
+
+/* Menu option - hugging as in the topic shape hugs the text within it */
+"o07-s6-CZm.title" = "Hugging";
+
+/* Menu option -  */
+"7wT-Pa-cGw.title" = "On";
+
+/* Menu option -  */
+"Tgf-t6-lI9.title" = "Off";
+
+/* Menu option -  */
+"kdo-Da-kNn.title" = "Auto";
+
+/* Menu option -  */
+"rud-NF-HBZ.title" = "Width";
+
+/* Menu option -  */
+"hW9-Kz-YDY.title" = "Text";
+
+/* Menu option -  */
+"L2h-du-1Ej.title" = "Image";
+
+/* Menu option -  */
+"Eab-ul-dZR.title" = "Hugging";
+
+/* Menu option -  hugging as in the topic shape hugs the text within it */
+"yE8-lf-ccn.title" = "All";
+
+
+
+
+/* Menu option - configure the Style settings for the map */
+"iGk-Hu-NvO.title" = "Style Settings";
+
+/* Menu option - highlight some text */
+"FBE-vU-xpp.title" = "Highlight";
+
+
+
+/* Menu option - set the header level for the selected text */
+"OFj-tj-aK2.title" = "Header";
+/* Menu option - set the header level for the selected text */
+"Wlb-v4-4aw.title" = "Header";
+
+/* Menu option - set the header level1 for the selected text */
+"Sw8-qe-y1T.title" = "Header1";
+/* Menu option - set the header level2 for the selected text */
+"HOd-rg-s6u.title" = "Header2";
+/* Menu option - set the header level3 for the selected text */
+"NBS-6k-zXy.title" = "Header3";
+/* Menu option - set the header level4 for the selected text */
+"AAE-80-Bji.title" = "Header4";
+/* Menu option - set the header level5 for the selected text */
+"hjV-nq-wMI.title" = "Header5";
+/* Menu option - set the header level6 for the selected text */
+"wtO-cu-KDy.title" = "Header6";
+
+
+/* Menu option - to configure a bulleted/numbered list */
+"8DZ-Tg-2W8.title" = "List";
+/* Menu option - to configure a bulleted/numbered list */
+"AOS-uk-Q9a.title" = "List";
+
+/* Menu option - to configure a bulleted list */
+"2ZL-Kw-Bpp.title" = "Bullets";
+/* Menu option - to configure a numbered list */
+"rTj-s7-xnD.title" = "Numbers";
+
+/* Menu option - indent the selected text */
+"1rC-hg-fE7.title" = "Indent";
+/* Menu option - format the selected text as though it were a quotation (indented etc) */
+"uMi-rk-Eki.title" = "Quote";
+/* Menu option - format the selected text as though it were computer code */
+"rYB-CZ-Qwj.title" = "Code";
+
+
+/* Menu option */
+"dvE-Sz-Mjs.title" = "Reset";
+/* Menu option  */
+"lO0-uI-Hcb.title" = "Reset";
+/* Menu option - as in Reset Topic Shape */
+"Bkj-Jo-HCx.title" = "Shape";
+/* Menu option - as in Reset Topic Color */
+"d5V-xM-k7b.title" = "Color";
+/* Menu option - to configure text attributes */
+"jjX-sr-6gM.title" = "Text";
+/* Menu option - to configure text attributes */
+"kvg-OR-QsO.title" = "Text";
+/* Menu option - as in Apply Settings to All */
+"2lF-uB-dcd.title" = "All";
+/* Menu option - configure Font settings */
+"wgx-gO-xxN.title" = "Font";
+/* Menu option - as in set text color */
+"xhr-QG-noK.title" = "Color";
+/* Menu option - as in text size */
+"neP-Tp-yhi.title" = "Size";
+/* Menu option - as in Text Alignment (left, right, center) */
+"SsA-ve-H0i.title" = "Alignment";
+/* Menu option - as in Apply Settings to All */
+"3z1-kU-Bmh.title" = "All";
+
+
+
+
+/* Menu option - Back as in back to the previous page */
+"fxg-2v-rD3.title" = "Back";
+
+/* Menu option - Forward as in opposite to Back to the previous page */
+"9o5-6c-FGs.title" = "Forward";
+
+
+
+
+/* Menu option: Similar to snap to grid only it will snap to adjacent topics */
+"jOv-kZ-CW3.title" = "Snap to Topic";
+
+
+/* Menu option: as in Select All Related Topics */
+"Dk2-B0-clJ.title" = "All Related";
+
+/* Menu option: Create a new floating topic (with relationship link) to the right */
+"R6V-wl-VnO.title"="Related Floating Right";
+
+/* Menu option: Create a new floating topic (with relationship link) to the left */
+"zlY-RL-wxH.title"="Related Floating Left";
+
+/* Menu option: Create a new floating topic (with relationship link) above */
+"GV3-5C-UTW.title"="Related Floating Above";
+
+/* Menu option: Create a new floating topic (with relationship link) below */
+"knY-Er-MN9.title"="Related Floating Below";
+
+/* Menu option: Align topics (using their centers) */
+"WoB-em-7PF.title"="Center";
+
+/* Menu option: Align topics (using their centers) */
+"OqE-5o-wvd.title"="Center";
+
+
+
+
+/* Menu option: Administer the various proerties of a relationship (color, style etc) */
+"YFq-cx-NgD.title"="Properties";
+
+
+
+/* Share the map on the Biggerplate.com website */
+"eFD-f5-3gM.title"="Share on Biggerplate.com";
+
+
+/* Menu option: Option to install a 'Safari Extension' */
+"v5X-f9-NNI.title"="Install Safari Extension";
+
+/* Menu option: Open a favourite map (similar to Open Recent) */
+"dX0-cI-Lnq.title" = "Open Favourite";
+
+
+
+/* Menu option: */
+"eZt-cy-GX0.title" = "Attachment";
+
+/* Menu option: View Attachment */
+"uFs-bq-GJX.title" = "View";
+
+/* Menu option: Delete Attachment */
+"XLJ-bu-zK5.title" = "Delete";
+
+/* Menu option: Show (Attachment) in Finder */
+"EUO-5y-xHW.title" = "Show in Finder";
+
+
+
+
+
+/* Menu option: Sub menu of Copy As */
+"wfY-We-vbe.title" = "Email List";
+
+/* Menu option: Sort as in 'Sort by priority' */
+"mUT-iU-Lzk.title" = "Sort";
+
+/* Menu option: sub menu of Sort (i.e. the rules by which the topics will be sorted) */
+"iK3-UV-K2e.title" = "Rules";
+
+/* Menu option: sub menu of Sort (i.e. sort the topics randomly) */
+"VEj-0b-jVV.title" = "Random";
+
+/* Menu option: sub menu of Sort->Random (i.e. sort the child topics randomly) */
+"aFN-YO-eIX.title" = "Children";
+
+/* Menu option: sub menu of Sort->Random (i.e. sort the entire branch randomly) */
+"tO9-yA-Vpx.title" = "Branch";
+
+
+/* Menu option: sub menu of View (i.e. filter the mindmap based on various criteria) */
+"Gc3-9M-CAZ.title" = "Filter";
+
+
+
+
+
+
+
+
+
+
+/* Menu option */
+"19.title" = "View";
+
+/* Menu option */
+"56.title" = "iThoughtsX";
+
+/* Menu option */
+"57.title" = "iThoughtsX";
+
+/* Menu option */
+"58.title" = "About iThoughtsX";
+
+/* Menu option */
+"72.title" = "Open…";
+
+/* Menu option */
+"73.title" = "Close";
+
+/* Menu option */
+"75.title" = "Save…";
+
+/* Menu option */
+"78.title" = "Print…";
+
+/* Menu option */
+"81.title" = "File";
+
+/* Menu option to create a new map/document */
+"82.title" = "New Map            ";
+
+/* Menu option */
+"83.title" = "File";
+
+/* Menu option */
+"112.title" = "Revert to Saved";
+
+/* Menu option */
+"124.title" = "Open Recent";
+
+/* Menu option */
+"125.title" = "Open Recent";
+
+/* Clear recent documents menu */
+"126.title" = "Clear Menu";
+
+/* Menu option */
+"129.title" = "Preferences…";
+
+/* Menu option */
+"130.title" = "Services";
+
+/* Menu option */
+"131.title" = "Services";
+
+/* Menu option */
+"134.title" = "Hide iThoughtsX";
+
+/* Menu option */
+"136.title" = "Quit iThoughtsX";
+
+/* Menu option */
+"145.title" = "Hide Others";
+
+/* Menu option */
+"150.title" = "Show All";
+
+/* Menu option */
+"195.title" = "Stop Speaking";
+
+/* Menu option */
+"196.title" = "Start Speaking";
+
+/* Menu option */
+"197.title" = "Copy";
+
+/* Menu option: as in Select All Topics */
+"eIN-ru-8hJ.title" = "All Topics";
+
+/* Menu option - sub menu of the 'Copy' menu */
+"199.title" = "to Clipboard";
+
+/* Menu option */
+"200.title" = "Spelling and Grammar";
+
+/* Menu option */
+"201.title" = "Check Document Now";
+
+/* Menu option */
+"202.title" = "Delete";
+
+/* Menu option */
+"203.title" = "Paste";
+
+/* Menu option */
+"204.title" = "Show Spelling and Grammar";
+
+/* Menu option */
+"205.title" = "Edit";
+
+/* Menu option */
+"207.title" = "Undo";
+
+/* Menu option */
+"208.title" = "Find Next";
+
+/* Menu option */
+"209.title" = "Find…";
+
+/* Menu option */
+"210.title" = "Jump to Selection";
+
+/* Menu option */
+"211.title" = "Speech";
+
+/* Menu option */
+"212.title" = "Speech";
+
+/* Menu option */
+"213.title" = "Find Previous";
+
+/* Menu option */
+"215.title" = "Redo";
+
+/* Menu option */
+"216.title" = "Spelling and Grammar";
+
+/* Menu option */
+"217.title" = "Edit";
+
+/* Menu option */
+"218.title" = "Find";
+
+/* Menu option */
+"219.title" = "Check Spelling While Typing";
+
+/* Menu option */
+"220.title" = "Find";
+
+/* Menu option */
+"221.title" = "Use Selection for Find";
+
+/* Menu option */
+"346.title" = "Check Grammar With Spelling";
+
+/* Menu option */
+"348.title" = "Substitutions";
+
+/* Menu option */
+"349.title" = "Substitutions";
+
+/* Menu option */
+"350.title" = "Smart Copy/Paste";
+
+/* Menu option */
+"351.title" = "Smart Quotes";
+
+/* Menu option */
+"354.title" = "Smart Links";
+
+/* Menu option - configure text settings such as bold */
+"374.title" = "Text";
+
+/* Menu option - configure text settings such as bold */
+"375.title" = "Text";
+
+/* Menu option */
+"376.title" = "Font";
+
+/* Menu option */
+"387.title" = "Font";
+
+/* Menu option */
+"388.title" = "Show Fonts";
+
+/* Menu option */
+"389.title" = "Bold";
+
+/* Menu option */
+"390.title" = "Italic";
+
+/* Menu option (text underline) */
+"391.title" = "Underline";
+
+/* Menu option */
+"393.title" = "Bigger";
+
+/* Menu option */
+"394.title" = "Smaller";
+
+/* Menu option */
+"396.title" = "Kern";
+
+/* Menu option */
+"397.title" = "Ligatures";
+
+/* Menu option */
+"398.title" = "Baseline";
+
+/* Menu option */
+"400.title" = "Show Colors";
+
+/* Menu option */
+"402.title" = "Copy Style";
+
+/* Menu option */
+"403.title" = "Paste Style";
+
+/* Menu option */
+"404.title" = "Baseline";
+
+/* Menu option */
+"405.title" = "Use Default";
+
+/* Menu option */
+"406.title" = "Superscript";
+
+/* Menu option */
+"407.title" = "Subscript";
+
+/* Menu option */
+"408.title" = "Raise";
+
+/* Menu option */
+"409.title" = "Lower";
+
+/* Menu option */
+"410.title" = "Ligatures";
+
+/* Menu option */
+"411.title" = "Use Default";
+
+/* Menu option */
+"412.title" = "Use None";
+
+/* Menu option */
+"413.title" = "Use All";
+
+/* Menu option */
+"414.title" = "Kern";
+
+/* Menu option */
+"415.title" = "Use Default";
+
+/* Menu option */
+"416.title" = "Use None";
+
+/* Menu option */
+"417.title" = "Tighten";
+
+/* Menu option */
+"418.title" = "Loosen";
+
+/* Menu option */
+"449.title" = "Transformations";
+
+/* Menu option */
+"450.title" = "Transformations";
+
+/* Menu option */
+"451.title" = "Make Upper Case";
+
+/* Menu option */
+"452.title" = "Make Lower Case";
+
+/* Menu option */
+"453.title" = "Capitalize";
+
+/* Menu option */
+"457.title" = "Smart Dashes";
+
+/* Menu option */
+"458.title" = "Show Substitutions";
+
+/* Menu option */
+"462.title" = "Text Replacement";
+
+/* Menu option */
+"465.title" = "Correct Spelling Automatically";
+
+/* Menu option */
+"491.title" = "Help";
+
+/* Menu option */
+"492.title" = "Help";
+
+/* Menu option - as in text alignment (left, right, center) */
+"495.title" = "Alignment";
+
+/* Menu option - as in text alignment (left, right, center)*/
+"496.title" = "Alignment";
+
+/* Menu option */
+"497.title" = "Align Left";
+
+/* Menu option */
+"498.title" = "Center";
+
+/* Menu option */
+"499.title" = "Justify";
+
+/* Menu option */
+"500.title" = "Align Right";
+
+/* Menu option */
+"502.title" = "Writing Direction";
+
+/* Menu option */
+"504.title" = "Show Ruler";
+
+/* Menu option */
+"505.title" = "Copy Ruler";
+
+/* Menu option */
+"506.title" = "Paste Ruler";
+
+/* Menu option */
+"507.title" = "Writing Direction";
+
+/* Menu option */
+"508.title" = "Paragraph";
+
+/* Menu option */
+"509.title" = "\tDefault";
+
+/* Menu option */
+"510.title" = "\tLeft to Right";
+
+/* Menu option */
+"511.title" = "\tRight to Left";
+
+/* Menu option */
+"513.title" = "Selection";
+
+/* Menu option */
+"514.title" = "\tDefault";
+
+/* Menu option */
+"515.title" = "\tLeft to Right";
+
+/* Menu option */
+"516.title" = "\tRight to Left";
+
+/* Menu option */
+"532.title" = "Find and Replace…";
+
+/* Menu option */
+"560.title" = "Topic";
+
+/* Menu option */
+"561.title" = "Topic";
+
+/* Menu option - sub menu of 'new topic'*/
+"562.title" = "Child";
+
+/* Menu option - sub menu of 'new topic'*/
+"563.title" = "Sibling Before";
+
+/* Menu option - sub menu of 'new topic'*/
+"566.title" = "Sibling After";
+
+/* Menu option - sub menu of 'new topic'*/
+"567.title" = "Parent";
+
+/* Menu option - sub menu of 'new topic'*/
+"568.title" = "Child Level";
+
+/* Menu option - sub menu of 'new topic'*/
+"574.title" = "Floating";
+
+/* Menu option - topic shape*/
+"655.title" = "Shape";
+
+/* Menu option - topic shape*/
+"656.title" = "Shape";
+
+/* Topic shape */
+"657.title" = "Rectangle";
+
+/* Topic shape */
+"658.title" = "Rounded";
+
+/* short for 'automatic' */
+"659.title" = "Auto";
+
+/* Topic shape */
+"660.title" = "Oval";
+
+/* Topic shape */
+"661.title" = "Underline";
+
+/* Topic shape */
+"663.title" = "None";
+
+/* Menu option - convert the current topic to a floating topic */
+"672.title" = "Float";
+
+/* Menu option - sub menu of new topic */
+"676.title" = "Callout";
+
+/* Menu option - sub menu of new topic */
+"690.title" = "Callout";
+
+
+/* Menu Option - set the branch layout (horizontal, vertical etc) */
+"8ze-MF-FqZ.title" = "Branch Layout";
+
+
+/* Menu option tooltip*/
+"794.ibShadowedToolTip" = "Delete the selected topic only and re-home its children";
+
+/* Menu option */
+"794.title" = "Delete Topic";
+
+/* Menu option */
+"797.title" = "Delete Branch";
+
+/* Menu option */
+"798.title" = "New Relationship";
+
+/* Menu option */
+"803.title" = "View";
+
+/* Menu option */
+"807.title" = "Show Toolbar";
+
+/* Menu option */
+"808.title" = "Customize Toolbar…";
+
+/* Menu option */
+"810.title" = "Notes Window Position";
+
+/* Menu option */
+"811.title" = "Notes Window Position";
+
+/* Menu option */
+"812.title" = "Right";
+
+/* Menu option */
+"813.title" = "Left";
+
+/* Menu option */
+"814.title" = "Bottom";
+
+/* Menu option */
+"815.title" = "Top";
+
+/* Menu option - create a boundary around the selected branch */
+"824.title" = "Boundary";
+
+/* Menu option - create a relationship link line between 2 topics */
+"843.title" = "Relationship";
+
+/* Menu option - create a relationship link line between 2 topics */
+"844.title" = "Relationship";
+
+/* Menu option - line style */
+"848.title" = "Dashed Line";
+
+/* Menu option - choose arrow style at start of relationship link line */
+"850.title" = "Start Arrow";
+
+/* Menu option - choose arrow style at start of relationship link line */
+"851.title" = "Start Arrow";
+
+/* Menu option - arrow head style for relationship link line */
+"852.title" = "None";
+
+/* Menu option - choose arrow style at end of relationship link line */
+"853.title" = "End Arrow";
+
+/* Menu option - choose arrow style at end of relationship link line */
+"854.title" = "End Arrow";
+
+/* Menu option - arrow head style for relationship link line */
+"855.title" = "None";
+
+/* Menu option - arrow head style for relationship link line */
+"856.title" = "Arrow";
+
+/* Menu option - arrow head style for relationship link line */
+"857.title" = "Ball";
+
+/* Menu option - arrow head style for relationship link line */
+"858.title" = "Arrow";
+
+/* Menu option - arrow head style for relationship link line */
+"859.title" = "Ball";
+
+/* Menu option */
+"868.title" = "Online Help";
+
+/* Menu option */
+"869.title" = "Contact the Developer";
+
+/* Menu option */
+"873.title" = "Share...";
+
+/* Menu option */
+"875.title" = "Share Selected...";
+
+/* Menu option */
+"898.title" = "Window";
+
+/* Menu option */
+"899.title" = "Window";
+
+/* Menu option */
+"900.title" = "Minimize";
+
+/* Menu option */
+"901.title" = "Zoom";
+
+/* Menu option */
+"903.title" = "Bring All to Front";
+
+/* Menu option */
+"907.title" = "Edit";
+
+/* Menu option */
+"960.title" = "Copy as";
+
+/* Menu option */
+"961.title" = "Copy as";
+
+/* Menu option - sub menu of 'copy as'*/
+"963.title" = "Image";
+
+/* Menu option - sub menu of 'delete' */
+"0Ts-Jb-ewc.title" = "Branch";
+
+/* Menu option - assign a % progress to the topic*/
+"1OS-Np-YVL.title" = "Progress";
+
+/* Menu option - sub menu of 'copy' */
+"4Da-JH-t0E.title" = "to New Map";
+
+/* Menu option - sub menu of 'auto numbering' */
+"57V-sQ-KAQ.title" = "Starting at Selected";
+
+/* Menu option */
+"5cF-ce-Bcq.title" = "Remove";
+
+/* Menu option - fit map to window*/
+"6N0-zL-aHj.title" = "Fit Map";
+
+/* Menu option */
+"lbC-ms-aLb.title" = "Select";
+
+/* Menu option - option when choosing progress/effort for a topic (means sum/average of child progress/effort values) */
+"8qa-bF-LOa.title" = "Rollup";
+
+/* Menu option - e.g. distribute topics evenly */
+"9PF-YH-n0I.title" = "Distribute";
+
+/* Menu option - justification*/
+"9qU-Kt-0uD.title" = "Right";
+
+/* Menu option - auto numbering option */
+"A3T-B9-KsO.title" = "Starting with Children";
+
+/* Menu option */
+"Cls-Ia-hXE.title" = "Paste Formatted";
+
+/* Menu option - number 0-5 assigned to a topic */
+"CxL-2b-GfS.title" = "Priority";
+
+/* Menu option - percentage assigned to a topic*/
+"D8i-5z-NgC.title" = "Progress";
+
+/* Menu option - sub menu for 'new map' */
+"Dg7-3I-f5x.title" = "     (with selection)";
+
+/* Menu option */
+"EQT-Bh-T47.title" = "Calendar";
+
+/* Menu option - when assigning a progress or effort to a topic (clears it)*/
+"Ezr-xl-44P.title" = "Not Set";
+
+/* Menu option - sub menu of align*/
+"GkO-3A-Bx4.title" = "Horizontally";
+
+/* Menu option - show presentation slides */
+"GoP-Kr-DU2.title" = "Slide List";
+
+/* Menu option - progress value */
+"H4S-Sg-Wwa.title" = "65%";
+
+/* Menu option */
+"HLG-23-fM1.title" = "New";
+
+/* Menu option */
+"ICi-2h-0GM.title" = "Zoom In";
+
+/* Menu option - sub menu of 'select topics'*/
+"jEL-cs-F3Q.title" = "Siblings";
+
+/* Menu option */
+"J8d-tB-WRm.title" = "Calendar";
+
+/* Menu option - sub menu of 'auto numbering'*/
+"JAK-n9-lvO.title" = "Starting at Selected";
+
+/* Menu option - presentation slides*/
+"JNh-Jo-6uV.title" = "Present";
+
+/* Menu option */
+"K15-6c-djW.title" = "Hyperlink";
+
+/* Menu option - sub menu of 'select topics'*/
+"swv-5a-Est.title" = "Children";
+
+/* Menu option */
+"Kni-be-b1u.title" = "Align";
+
+/* Menu option */
+"Muu-Ja-duc.title" = "Suspend Topic Evaluation";
+
+/* Menu option - eg arrange topics equally spaced*/
+"NqX-Sg-EMc.title" = "Arrange";
+
+/* Menu option */
+"PIV-0a-ee5.title" = "Leave AppStore Review";
+
+/* Menu option */
+"Ply-ZX-QBs.title" = "Reset Notes Font";
+
+/* Menu option - eg arrange topics equally spaced*/
+"QBC-Oy-jrE.title" = "Arrange";
+
+/* Menu option */
+"QCJ-fY-NXd.title" = "Delete";
+
+/* Menu option */
+"Qrg-LY-Wrd.title" = "Show Task Panel";
+
+/* Menu option - as in presentation slide*/
+"Qwr-vr-OmU.title" = "Previous Slide";
+
+/* Menu option */
+"ROI-Ez-zhL.title" = "Hyperlink";
+
+/* Menu option*/
+"RhV-wh-rDc.title" = "3";
+
+/* Menu option */
+"Ryx-nQ-N19.title" = "Cut";
+
+/* Menu option */
+"SH8-0L-6w2.title" = "Open";
+
+/* Menu option - option when setting progress value on topic*/
+"SfY-ar-ULn.title" = "Complete";
+
+/* Menu option */
+"V8U-aC-hXf.title" = "Show/Hide Notes Window";
+
+
+/* Menu option - toggle between edit or view mode for the notes attached to a topic */
+"gi0-Kq-nFX.title" = "Edit/View Notes";
+
+
+/* short for 'automatic' */
+"VQF-03-ZDs.title" = "Auto";
+
+/* Menu option - progress setting */
+"VaR-PI-oE3.title" = "10%";
+
+/* Menu option */
+"Vo0-qk-XL1.title" = "Bottom";
+
+/* Menu option */
+"Vrr-fY-PaD.title" = "4";
+
+/* Menu option */
+"6SM-Kb-lio.title" = "Select";
+
+/* Menu option - presentation slides */
+"XrS-WB-77d.title" = "Export Slides (to PDF)";
+
+/* Menu option */
+"Xzg-x1-7Mr.title" = "New Topic";
+
+/* Menu option - as in task management */
+"YEA-xX-7XT.title" = "Task";
+
+/* Menu option - as in presnetation */
+"YTn-HQ-cLD.title" = "Present";
+
+/* Menu option - fit the selected topics into the window */
+"YUK-Ro-tIl.title" = "Fit Selection";
+
+/* Menu option - option for progress or priorty */
+"YiG-Nm-cpK.title" = "Not Set";
+
+/* Menu option - sub menu of 'select topics' */
+"UZa-J2-KBh.title" = "Cousins";
+
+/* Menu option */
+"ZNO-61-TyB.title" = "Zoom";
+
+/* Menu option */
+"aWi-fb-MmS.title" = "Zoom Out";
+
+/* Menu option - email the topic as a calendar event */
+"aef-MG-Dmm.title" = "Email Event";
+
+/* Menu option */
+"ahX-G0-9FX.title" = "Zoom";
+
+/* Menu option */
+"aoU-HR-ISt.title" = "Top";
+
+/* Menu option - next slide in the presentation */
+"asZ-K9-lw0.title" = "Next Slide";
+
+/* Menu option - start/play the presentation */
+"ayc-Xm-ERc.title" = "Present Slides";
+
+/* Menu option */
+"bRd-Sx-fq2.title" = "Left";
+
+/* Menu option - set the topic to use the automatic style settings */
+"bcq-st-gJV.title" = "Auto Style";
+
+/* Menu option - create a new 'presentation' slide */
+"buR-Jb-Mc8.title" = "Make Slide";
+
+/* Menu option - progress value */
+"cdV-UD-rya.title" = "35%";
+
+/* Menu option */
+"d5n-bb-sk8.title" = "Strikethrough";
+
+/* Menu option - sub menu of 'autonumbering' */
+"dEI-5E-DNy.title" = "Starting with Children";
+
+/* Menu option - create a calendar event from the topic */
+"dN9-k4-e58.title" = "Create Event";
+
+/* Menu option - email a reminder event*/
+"fIb-aD-qZy.title" = "Email Reminder";
+
+/* Topic shape */
+"fsr-Xy-RcV.title" = "Square Bracket";
+
+/* Menu option - create a reminder event */
+"fzr-aP-VwZ.title" = "Create Reminder";
+
+/* Menu option - progress value */
+"gCK-jB-LL9.title" = "25%";
+
+/* Menu option */
+"hRG-ec-miY.title" = "Cut";
+
+/* Menu option - edit the map style settings */
+"inu-q5-bMt.title" = "Edit Style";
+
+/* Menu option - progress value */
+"k69-jv-aie.title" = "Not Started";
+
+/* Menu option*/
+"kpX-zA-Cea.title" = "Research";
+
+/* Menu option - as in task management */
+"kqK-0B-8Ty.title" = "Task";
+
+/* Menu option */
+"mgp-Ex-at7.title" = "1";
+
+/* Menu option */
+"nBq-2r-KVW.title" = "Auto Numbering";
+
+/* Menu option */
+"o7g-Us-heh.title" = "Enter Full Screen";
+
+/* Menu option - as in hyperlink */
+"o9T-oL-MaW.title" = "Link";
+
+/* Menu option */
+"q6U-Lb-C3d.title" = "Align";
+
+/* Menu option */
+"q7n-5Z-RU4.title" = "Priority";
+
+/* Menu option - alignment */
+"qpa-Au-tcr.title" = "Vertically";
+
+/* Menu option - progress value */
+"qsw-3l-4Ck.title" = "75%";
+
+/* Menu option - focus on the selected topics (hiding others) */
+"tKN-vb-V2H.title" = "Focus On Selected";
+
+
+/* Menu option - progress value */
+"ulX-uh-x7r.title" = "50%";
+
+/* Topic shape */
+"upt-SS-s5g.title" = "Curved Bracket";
+
+/* Menu option - as in distribute topics evenly */
+"vXJ-Nh-Zkk.title" = "Distribute";
+
+/* Menu option - progress value */
+"vo4-tz-auI.title" = "90%";
+
+/* Menu option */
+"vuu-nS-8ap.title" = "New";
+
+/* Menu option */
+"wFS-WN-uTL.title" = "5";
+
+/* Menu option */
+"y1B-7W-XC9.title" = "Switch Between Topic/Note Edit";
+
+/* Menu option - as in presentation slide */
+"y6G-ji-qsT.title" = "Remove Slide";
+
+/* Menu option */
+"z2p-Ya-4hA.title" = "Auto Numbering";
+
+/* Menu option */
+"zH4-M6-tKW.title" = "New Topic";
+
+/* Menu option - as in presentation slide */
+"zho-ll-Zuk.title" = "First Slide";
+
+/* Menu option */
+"zoe-hk-iIf.title" = "Hide Completed Tasks";
+
+/* Menu option */
+"zqF-pS-qCw.title" = "None";
+
+/* Menu option */
+"zye-Ai-dlo.title" = "2";

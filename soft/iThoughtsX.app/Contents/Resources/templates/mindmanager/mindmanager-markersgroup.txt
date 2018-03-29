@@ -1,0 +1,167 @@
+	<ap:MarkersSetGroup>
+		<ap:IconMarkersSets>
+			<ap:IconMarkersSet Dirty="0000000000000000" Gen="0000000000000000" OId="T71qbXiGjUWps9Y0WL1l9A==">
+				<ap:Name Dirty="0000000000000000" Name="Flags"/>
+				<ap:IconMarkers>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="hZ8YVAdC+kC3JExb4AKxsQ==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Yes"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagGreen"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="6uDGEKmijEKQadd6OtlkUg==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Maybe"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagYellow"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="sBHipFDelECOsLFZW7POew==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Discuss"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagOrange"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="GSsUTKupRkK9VljG/p5ydg==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Risk"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagRed"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="HPW3holr+kaE6qR88qyloA==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Move"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagPurple"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="rYjT4x5vCkaK107PrldOzA==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Defer"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagBlue"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="EjJvIP83fU+b2tJepCV+ZA==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="No"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:FlagBlack"/>
+					</ap:IconMarker>
+				</ap:IconMarkers>
+			</ap:IconMarkersSet>
+			<ap:IconMarkersSet Dirty="0000000000000000" Gen="0000000000000000" OId="FkrmQzFjJESynjZayAZoNA==">
+				<ap:Name Dirty="0000000000000000" Name="Arrows"/>
+				<ap:IconMarkers>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="i8UimIbexUWMkztxAxgZeQ==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Up"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ArrowUp"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="ugmCBp8GpU+QZAP2gi3kxQ==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Down"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ArrowDown"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="JaIkc9bl50+W+z+8u+435A==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Left"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ArrowLeft"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="HR8v59mdykKXfXkCKLXakQ==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Right"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ArrowRight"/>
+					</ap:IconMarker>
+				</ap:IconMarkers>
+			</ap:IconMarkersSet>
+			<ap:IconMarkersSet Dirty="0000000000000000" Gen="0000000000000000" OId="cHRglENqFkibvAwcKdLxdg==">
+				<ap:Name Dirty="0000000000000000" Name="Smileys"/>
+				<ap:IconMarkers>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="Klb2dw/MMkCjQA4v4S9W1w==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Happy"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:SmileyHappy"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="PXyhM9TgpkiVy/HT1wlHMg==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Neutral"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:SmileyNeutral"/>
+					</ap:IconMarker>
+					<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="Pa/TobNMQEWE2m2Fco8AIw==" xsi:type="ap:StockIconMarker">
+						<ap:Name Dirty="0000000000000000" Name="Sad"/>
+						<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:SmileySad"/>
+					</ap:IconMarker>
+				</ap:IconMarkers>
+			</ap:IconMarkersSet>
+		</ap:IconMarkersSets>
+		<ap:IconMarkers>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="fJwUTZk6bUucgL4zCqzaEA==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Pro"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ThumbsUp"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="FAI/9DEJl0i/FOFGcvlBuQ==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Con"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ThumbsDown"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="e5/h0qzhDUWqu+WKkbgqeg==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Question"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:QuestionMark"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="u+AokTwpP0SBxVuV8k5Kxw==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Attention"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:ExclamationMark"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="HnOabYzZaEy7TgWbSu5XdA==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Decision"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:JudgeHammer"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="KDVNT3wjNEOdGPTTeQD0ww==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Date"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:Calendar"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="Ejy2sk2lnEyLM74nBLJgcw==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Cost"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:Dollar"/>
+			</ap:IconMarker>
+			<ap:IconMarker Dirty="0000000000000000" Gen="0000000000000000" OId="A/BAcTBYIUCSN1OsUN1ENQ==" xsi:type="ap:StockIconMarker">
+				<ap:Name Dirty="0000000000000000" Name="Alarm"/>
+				<ap:OneStockIcon Dirty="0000000000000000" IconType="urn:mindjet:Emergency"/>
+			</ap:IconMarker>
+		</ap:IconMarkers>
+		<ap:FillColorMarkersName Dirty="0000000000000000" Name="Fill Colors"/>
+		<ap:TextColorMarkersName Dirty="0000000000000000" Name="Font Colors"/>
+		<ap:TaskPercentageMarkersName Dirty="0000000000000000" Name="Progress"/>
+		<ap:TaskPercentageMarkers>
+			<ap:TaskPercentageMarker Dirty="0000000000000000" Gen="0000000000000000" OId="r3PZmpKRu0qJ+DkZvCOy6g==">
+				<ap:Name Dirty="0000000000000000" Name="Not done"/>
+				<ap:TaskPercentage Dirty="0000000000000000" TaskPercentage="0"/>
+			</ap:TaskPercentageMarker>
+			<ap:TaskPercentageMarker Dirty="0000000000000000" Gen="0000000000000000" OId="lGErObvpM0Cwofes9kJxlg==">
+				<ap:Name Dirty="0000000000000000" Name="Quarter done"/>
+				<ap:TaskPercentage Dirty="0000000000000000" TaskPercentage="25"/>
+			</ap:TaskPercentageMarker>
+			<ap:TaskPercentageMarker Dirty="0000000000000000" Gen="0000000000000000" OId="SZay1qQupU6fxUo+vdUtRg==">
+				<ap:Name Dirty="0000000000000000" Name="Half done"/>
+				<ap:TaskPercentage Dirty="0000000000000000" TaskPercentage="50"/>
+			</ap:TaskPercentageMarker>
+			<ap:TaskPercentageMarker Dirty="0000000000000000" Gen="0000000000000000" OId="jWMvmXqwWE26IM16HAcZtg==">
+				<ap:Name Dirty="0000000000000000" Name="Three quarters done"/>
+				<ap:TaskPercentage Dirty="0000000000000000" TaskPercentage="75"/>
+			</ap:TaskPercentageMarker>
+			<ap:TaskPercentageMarker Dirty="0000000000000000" Gen="0000000000000000" OId="+WeMsegg+Eqnw1Iu706ZYQ==">
+				<ap:Name Dirty="0000000000000000" Name="Task done"/>
+				<ap:TaskPercentage Dirty="0000000000000000" TaskPercentage="100"/>
+			</ap:TaskPercentageMarker>
+		</ap:TaskPercentageMarkers>
+		<ap:TaskPriorityMarkersName Dirty="0000000000000000" Name="Priority"/>
+		<ap:TaskPriorityMarkers>
+			<ap:TaskPriorityMarker Dirty="0000000000000000" Gen="0000000000000000" OId="73Tur3ciCEyBZEjS5ND9ag==">
+				<ap:Name Dirty="0000000000000000" Name="Priority 1"/>
+				<ap:TaskPriority Dirty="0000000000000000" TaskPriority="urn:mindjet:Prio1"/>
+			</ap:TaskPriorityMarker>
+			<ap:TaskPriorityMarker Dirty="0000000000000000" Gen="0000000000000000" OId="ioV979qVIEyKLflWYkD9AQ==">
+				<ap:Name Dirty="0000000000000000" Name="Priority 2"/>
+				<ap:TaskPriority Dirty="0000000000000000" TaskPriority="urn:mindjet:Prio2"/>
+			</ap:TaskPriorityMarker>
+			<ap:TaskPriorityMarker Dirty="0000000000000000" Gen="0000000000000000" OId="ky1J81CnGEam7bGgopA3Ug==">
+				<ap:Name Dirty="0000000000000000" Name="Priority 3"/>
+				<ap:TaskPriority Dirty="0000000000000000" TaskPriority="urn:mindjet:Prio3"/>
+			</ap:TaskPriorityMarker>
+			<ap:TaskPriorityMarker Dirty="0000000000000000" Gen="0000000000000000" OId="RLT4iICN+kOL/ctGL3DSOw==">
+				<ap:Name Dirty="0000000000000000" Name="Priority 4"/>
+				<ap:TaskPriority Dirty="0000000000000000" TaskPriority="urn:mindjet:Prio4"/>
+			</ap:TaskPriorityMarker>
+			<ap:TaskPriorityMarker Dirty="0000000000000000" Gen="0000000000000000" OId="q2VF+b7C0UKigSDFVykqLQ==">
+				<ap:Name Dirty="0000000000000000" Name="Priority 5"/>
+				<ap:TaskPriority Dirty="0000000000000000" TaskPriority="urn:mindjet:Prio5"/>
+			</ap:TaskPriorityMarker>
+		</ap:TaskPriorityMarkers>
+		<ap:TaskResourceMarkers>
+
+		
+<!--		
+			<ap:TaskResourceMarker Dirty="0000000000000001" Gen="0000000000000000" OId="XZ/Qpro4M0igYIRsLGcwxw==">
+				<ap:Name Dirty="0000000000000001" Name="bill"/>
+			</ap:TaskResourceMarker>
+-->
+
+		</ap:TaskResourceMarkers>
+	</ap:MarkersSetGroup>

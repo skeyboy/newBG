@@ -1,0 +1,16 @@
+/* TW.PREFIX=Mac.ColorAccessoryVC. */
+
+/* */
+"8.title" = "Auto";
+
+/* As in 'pastel' colors */
+"10.title" = "Pastel";
+
+/* As in 'grayscale' colors */
+"14.title" = "Grayscale";
+
+/* As in 'saturated' colors */
+"16.title" = "Saturated";
+
+/* */
+"20.title" = "Map";

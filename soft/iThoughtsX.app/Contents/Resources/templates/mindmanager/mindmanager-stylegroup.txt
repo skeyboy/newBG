@@ -1,0 +1,141 @@
+	<ap:StyleGroup>
+		<ap:RootTopicDefaultsGroup>
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ff96b3df" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Central Topic" ReadOnly="false" TextAlignment="urn:mindjet:Center" TextCapitalization="urn:mindjet:SentenceStyle" VerticalTextAlignment="urn:mindjet:Top">
+				<ap:Font Bold="true" Color="ff333333" Italic="false" Name="Verdana" Size="12." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="2.5" Dirty="0000000000000000" LeftMargin="2.5" RightMargin="2.5" SubTopicShape="urn:mindjet:RoundedRectangle" TopMargin="2.5" VerticalBottomMargin="2.5" VerticalLeftMargin="2.5" VerticalRightMargin="2.5" VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="2.5"/>
+			<ap:DefaultLabelFloatingTopicShape BottomMargin="0." Dirty="0000000000000000" LabelFloatingTopicShape="urn:mindjet:None" LeftMargin="0." RightMargin="0." TopMargin="0." VerticalBottomMargin="2.5" VerticalLabelFloatingTopicShape="urn:mindjet:None" VerticalLeftMargin="2.5" VerticalRightMargin="2.5" VerticalTopMargin="2.5"/>
+			<ap:DefaultCalloutFloatingTopicShape BottomMargin="0." CalloutFloatingTopicShape="urn:mindjet:None" Dirty="0000000000000000" LeftMargin="0." RightMargin="0." TopMargin="0." VerticalBottomMargin="2.5" VerticalCalloutFloatingTopicShape="urn:mindjet:None" VerticalLeftMargin="2.5" VerticalRightMargin="2.5" VerticalTopMargin="2.5"/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" MinimumHeight="5." Padding="2." TopicLayoutHorizontalAlignment="urn:mindjet:Center" TopicLayoutVerticalAlignment="urn:mindjet:Center" TopicTextAndImagePosition="urn:mindjet:TextRightImageLeft" TopicWidthControl="urn:mindjet:AutoWidth" Width="61."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="7." DistanceFromParent="30." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Center" SubTopicsConnectionStyle="urn:mindjet:Arc" SubTopicsDepth="1" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:LeftAndRight" SubTopicsShape="urn:mindjet:Vertical" SubTopicsShapeWidthFactor="1." SubTopicsTreeConnectionPoint="urn:mindjet:Inside" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:Down" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow" VerticalSubTopicsTreeConnectionPoint="urn:mindjet:Inside"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:RootTopicDefaultsGroup>
+		<ap:RootSubTopicDefaultsGroup Level="0">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffe9f1ff" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Main Topic" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="true" Color="ff4b4b4b" Italic="false" Name="Verdana" Size="10." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="2." Dirty="0000000000000000" LeftMargin="2." RightMargin="2." SubTopicShape="urn:mindjet:RoundedRectangle" TopMargin="2." VerticalBottomMargin="2." VerticalLeftMargin="2." VerticalRightMargin="2." VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="2."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" Padding="2." Width="66.800003051757813"/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="2." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Bottom" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:RootSubTopicDefaultsGroup>
+		<ap:RootSubTopicDefaultsGroup Level="1">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffffffff" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Subtopic" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="true" Color="ff4b4b4b" Italic="false" Name="Verdana" Size="9." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="0." Dirty="0000000000000000" LeftMargin="0." RightMargin="0." SubTopicShape="urn:mindjet:None" TopMargin="0." VerticalBottomMargin="1." VerticalLeftMargin="1." VerticalRightMargin="1." VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="1."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" Width="60.700000762939453"/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="2." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Bottom" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:RootSubTopicDefaultsGroup>
+		<ap:RootSubTopicDefaultsGroup Level="2">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="00000000"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Subtopic" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="false" Color="ff282828" Italic="false" Name="Verdana" Size="9." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="0.20000000298023224" Dirty="0000000000000000" LeftMargin="0.20000000298023224" RightMargin="0.20000000298023224" SubTopicShape="urn:mindjet:Line" TopMargin="0.20000000298023224" VerticalBottomMargin="1." VerticalLeftMargin="1." VerticalRightMargin="1." VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="1."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" Width="66.800003051757813"/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="2." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Bottom" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+		</ap:RootSubTopicDefaultsGroup>
+		<ap:CalloutTopicDefaultsGroup>
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffffe178" LineColor="ffe0c35a"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Callout" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="true" Color="ff4b4b4b" Italic="false" Name="Verdana" Size="10." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultCalloutFloatingTopicShape BottomMargin="2." CalloutFloatingTopicShape="urn:mindjet:RoundedRectangleBalloon" Dirty="0000000000000000" LeftMargin="2." RightMargin="2." TopMargin="2."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" Padding="2." Width="61."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="2." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10."/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:CalloutTopicDefaultsGroup>
+		<ap:CalloutSubTopicDefaultsGroup Level="0">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="00000000" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Subtopic" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="false" Color="ff282828" Name="Verdana" Size="9."/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="0.20000000298023224" Dirty="0000000000000000" LeftMargin="0.20000000298023224" RightMargin="0.20000000298023224" SubTopicShape="urn:mindjet:Line" TopMargin="0.20000000298023224"/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="2." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10."/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:CalloutSubTopicDefaultsGroup>
+		<ap:LabelTopicDefaultsGroup>
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffeeeff6" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Floating Topic" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="true" Color="ff4b4b4b" Italic="false" Name="Verdana" Size="10." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultLabelFloatingTopicShape BottomMargin="2." Dirty="0000000000000000" LabelFloatingTopicShape="urn:mindjet:RoundedRectangle" LeftMargin="2." RightMargin="2." TopMargin="2." VerticalBottomMargin="2." VerticalLabelFloatingTopicShape="urn:mindjet:RoundedRectangle" VerticalLeftMargin="2." VerticalRightMargin="2." VerticalTopMargin="2."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" Padding="2."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="2." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsDepth="1" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:Down" VerticalDistanceBetweenSiblings="1.3999999761581421" VerticalDistanceFromParent="5." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:LabelTopicDefaultsGroup>
+		<ap:LabelSubTopicDefaultsGroup Level="0">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="00000000" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Subtopic" ReadOnly="false" TextAlignment="urn:mindjet:Left" TextCapitalization="urn:mindjet:None">
+				<ap:Font Bold="false" Color="ff282828" Name="Verdana" Size="9."/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="0.5" Dirty="0000000000000000" LeftMargin="0.5" RightMargin="0.5" SubTopicShape="urn:mindjet:Line" TopMargin="0.5" VerticalBottomMargin="1." VerticalLeftMargin="1." VerticalRightMargin="1." VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="1."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" Width="61."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Bottom" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:RoundedElbow" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1.3999999761581421" VerticalDistanceFromParent="3." VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:LabelSubTopicDefaultsGroup>
+		<ap:OrgChartTopicDefaultsGroup>
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffe9f1ff" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Org-Chart Topic" ReadOnly="false" TextAlignment="urn:mindjet:Center" TextCapitalization="urn:mindjet:None" VerticalTextAlignment="urn:mindjet:Top">
+				<ap:Font Bold="true" Color="ff4b4b4b" Italic="false" Name="Verdana" Size="10." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape Dirty="0000000000000000" VerticalBottomMargin="2." VerticalLeftMargin="2." VerticalRightMargin="2." VerticalSubTopicShape="urn:mindjet:RoundedRectangle" VerticalTopMargin="2."/>
+			<ap:DefaultLabelFloatingTopicShape Dirty="0000000000000000" VerticalBottomMargin="2." VerticalLabelFloatingTopicShape="urn:mindjet:RoundedRectangle" VerticalLeftMargin="2." VerticalRightMargin="2." VerticalTopMargin="2."/>
+			<ap:DefaultCalloutFloatingTopicShape Dirty="0000000000000000" VerticalBottomMargin="2." VerticalCalloutFloatingTopicShape="urn:mindjet:RoundedRectangleBalloon" VerticalLeftMargin="2." VerticalRightMargin="2." VerticalTopMargin="2."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" MinimumHeight="5." Padding="2." TopicLayoutHorizontalAlignment="urn:mindjet:Center" TopicLayoutVerticalAlignment="urn:mindjet:Center" TopicTextAndImagePosition="urn:mindjet:TextRightImageLeft" TopicWidthControl="urn:mindjet:AutoWidth" Width="50."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1." DistanceFromParent="5." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsDepth="1" SubTopicsGrowth="urn:mindjet:Vertical" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsShapeWidthFactor="1." SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1.3999999761581421" VerticalDistanceFromParent="3." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:OrgChartTopicDefaultsGroup>
+		<ap:OrgChartSubTopicDefaultsGroup Level="0">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffffffff"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Topic" ReadOnly="false" TextAlignment="urn:mindjet:Center" TextCapitalization="urn:mindjet:None" VerticalTextAlignment="urn:mindjet:Top">
+				<ap:Font Bold="true" Color="ff4b4b4b" Italic="false" Name="Verdana" Size="9." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape Dirty="0000000000000000" VerticalBottomMargin="1." VerticalLeftMargin="1." VerticalRightMargin="1." VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="1."/>
+			<ap:DefaultCalloutFloatingTopicShape Dirty="0000000000000000" VerticalBottomMargin="2." VerticalCalloutFloatingTopicShape="urn:mindjet:RectangleBalloon" VerticalLeftMargin="2." VerticalRightMargin="2." VerticalTopMargin="2."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" MinimumHeight="5." Padding="1." TopicLayoutHorizontalAlignment="urn:mindjet:Center" TopicLayoutVerticalAlignment="urn:mindjet:Center" TopicTextAndImagePosition="urn:mindjet:TextRightImageLeft" TopicWidthControl="urn:mindjet:AutoWidth" Width="50."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="3." SubTopicsAlignment="urn:mindjet:Bottom" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:Elbow" SubTopicsDepth="1" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsShapeWidthFactor="1." SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="3." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+			<ap:DefaultSubTopicsVisibility Dirty="0000000000000000" Hidden="false"/>
+		</ap:OrgChartSubTopicDefaultsGroup>
+		<ap:OrgChartSubTopicDefaultsGroup Level="1">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffffffff"/>
+			<ap:DefaultText Dirty="0000000000000000" PlainText="Topic" ReadOnly="false" TextAlignment="urn:mindjet:Center" TextCapitalization="urn:mindjet:None" VerticalTextAlignment="urn:mindjet:Top">
+				<ap:Font Bold="false" Color="ff282828" Italic="false" Name="Verdana" Size="9." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="1." Dirty="0000000000000000" LeftMargin="1." RightMargin="1." SubTopicShape="urn:mindjet:Rectangle" TopMargin="1." VerticalBottomMargin="0.5" VerticalLeftMargin="0.5" VerticalRightMargin="0.5" VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="0.5"/>
+			<ap:DefaultCalloutFloatingTopicShape Dirty="0000000000000000" VerticalBottomMargin="2." VerticalCalloutFloatingTopicShape="urn:mindjet:RectangleBalloon" VerticalLeftMargin="2." VerticalRightMargin="2." VerticalTopMargin="2."/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" MinimumHeight="5." Padding="1." TopicLayoutHorizontalAlignment="urn:mindjet:Center" TopicLayoutVerticalAlignment="urn:mindjet:Center" TopicTextAndImagePosition="urn:mindjet:TextRightImageLeft" TopicWidthControl="urn:mindjet:AutoWidth" Width="50."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="1.3999999761581421" DistanceFromParent="3." SubTopicsAlignment="urn:mindjet:Bottom" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Outside" SubTopicsConnectionStyle="urn:mindjet:Elbow" SubTopicsDepth="1" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:AutomaticHorizontal" SubTopicsShape="urn:mindjet:Vertical" SubTopicsShapeWidthFactor="1." SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:AutomaticVertical" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="3." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow"/>
+		</ap:OrgChartSubTopicDefaultsGroup>
+		<ap:RelationshipDefaultsGroup>
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="00000000" LineColor="ffe0666e"/>
+			<ap:DefaultLineStyle Dirty="0000000000000000" LineDashStyle="urn:mindjet:Dash" LineWidth="1.5"/>
+			<ap:DefaultConnectionStyle ConnectionShape="urn:mindjet:NoArrow" Dirty="0000000000000000" Index="0"/>
+			<ap:DefaultConnectionStyle ConnectionShape="urn:mindjet:Arrow" Dirty="0000000000000000" Index="1"/>
+			<ap:DefaultRelationshipLineShape Dirty="0000000000000000" LineShape="urn:mindjet:Bezier"/>
+		</ap:RelationshipDefaultsGroup>
+		<ap:BoundaryDefaultsGroup>
+			<ap:DefaultLineStyle Dirty="0000000000000000" LineDashStyle="urn:mindjet:Solid" LineWidth="1.5"/>
+			<ap:DefaultBoundaryShape BoundaryShape="urn:mindjet:CurvedLine" Dirty="0000000000000000" Margin="0."/>
+		</ap:BoundaryDefaultsGroup>
+		<ap:Structure Dirty="0000000000000000" FadeNotSelectedObjects="true" HideCollapseSign="false" MainTopicLineWidth="0.60000002384185791" MinimumMainTopicsHeight="40." ParentChildSpacing="0." SiblingSpacing="0." StructureGrowthDirection="urn:mindjet:Automatic" UseAutoLayout="true" UseCurveAntialiasing="true" UseOrganicLines="false" UseTextAntialiasing="true" VerticalMainTopicLineWidth="1."/>
+		<ap:NotesDefaultFont Color="ff000000" Dirty="0000000000000000" Name="Verdana" Size="10."/>
+		<ap:TopicNamedDefaultsGroup DefaultsId="Th1mlSQLTkC8IOjxFYkW/Q==">
+			<ap:DefaultColor Dirty="0000000000000000" FillColor="ffaec5e7" LineColor="ffc6c6c6"/>
+			<ap:DefaultText Dirty="0000000000000000" ReadOnly="false" TextAlignment="urn:mindjet:Center" TextCapitalization="urn:mindjet:SentenceStyle">
+				<ap:Font Bold="true" Color="ff3c3c3c" Italic="false" Name="Verdana" Size="12." Strikethrough="false" Underline="false"/>
+			</ap:DefaultText>
+			<ap:DefaultSubTopicShape BottomMargin="6." Dirty="0000000000000000" LeftMargin="6." RightMargin="6." SubTopicShape="urn:mindjet:RoundedRectangle" TopMargin="6." VerticalBottomMargin="2.5" VerticalLeftMargin="2.5" VerticalRightMargin="2.5" VerticalSubTopicShape="urn:mindjet:Rectangle" VerticalTopMargin="2.5"/>
+			<ap:DefaultLabelFloatingTopicShape BottomMargin="6." Dirty="0000000000000000" LabelFloatingTopicShape="urn:mindjet:RoundedRectangle" LeftMargin="6." RightMargin="6." TopMargin="6." VerticalBottomMargin="2.5" VerticalLabelFloatingTopicShape="urn:mindjet:Rectangle" VerticalLeftMargin="2.5" VerticalRightMargin="2.5" VerticalTopMargin="2.5"/>
+			<ap:DefaultCalloutFloatingTopicShape BottomMargin="6." CalloutFloatingTopicShape="urn:mindjet:RoundedRectangleBalloon" Dirty="0000000000000000" LeftMargin="6." RightMargin="6." TopMargin="6." VerticalBottomMargin="2.5" VerticalCalloutFloatingTopicShape="urn:mindjet:RectangleBalloon" VerticalLeftMargin="2.5" VerticalRightMargin="2.5" VerticalTopMargin="2.5"/>
+			<ap:DefaultTopicLayout Dirty="0000000000000000" MinimumHeight="5." Padding="1." TopicLayoutHorizontalAlignment="urn:mindjet:Center" TopicLayoutVerticalAlignment="urn:mindjet:Center" TopicTextAndImagePosition="urn:mindjet:TextRightImageLeft" TopicWidthControl="urn:mindjet:AutoWidth" Width="50."/>
+			<ap:DefaultSubTopicsShape Dirty="0000000000000000" DistanceBetweenSiblings="7." DistanceFromParent="30." SubTopicsAlignment="urn:mindjet:Center" SubTopicsAlignmentDualVertical="urn:mindjet:Center" SubTopicsConnectionPoint="urn:mindjet:Center" SubTopicsConnectionStyle="urn:mindjet:Arc" SubTopicsDepth="1" SubTopicsGrowth="urn:mindjet:Horizontal" SubTopicsGrowthDirection="urn:mindjet:Right" SubTopicsShape="urn:mindjet:Vertical" SubTopicsShapeWidthFactor="1." SubTopicsTreeConnectionPoint="urn:mindjet:Inside" SubTopicsVerticalAlignment="urn:mindjet:Middle" SubTopicsVerticalGrowthDirection="urn:mindjet:Down" VerticalDistanceBetweenSiblings="1." VerticalDistanceFromParent="10." VerticalSubTopicsConnectionPoint="urn:mindjet:Outside" VerticalSubTopicsConnectionStyle="urn:mindjet:Elbow" VerticalSubTopicsTreeConnectionPoint="urn:mindjet:Inside"/>
+			<ap:DefaultsName Dirty="0000000000000000" Name="Topic Style 2"/>
+			<ap:Id Dirty="0000000000000000" Guid="Th1mlSQLTkC8IOjxFYkW/Q=="/>
+		</ap:TopicNamedDefaultsGroup>
+	</ap:StyleGroup>

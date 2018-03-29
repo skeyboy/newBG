@@ -1,0 +1,39 @@
+/* TW.PREFIX=Mac.StyleColorVC. */
+
+/* Describes how rainbow colors are distributed around the central topic */
+"on2-E1-NrR.title" = "Clockface";
+
+
+
+/* A map style option */
+"16y-IS-tnI.title" = "Full Color";
+
+/* First color in a range of colors */
+"4LA-yv-LbW.title" = "Start Color";
+
+/* A map style option (wireframe means no fill) */
+"B1u-MR-JT0.title" = "Wireframe (Color+Text)";
+
+/* style option - do child topics inherit their color from their parent */
+"DST-nI-4bP.title" = "Inherit Color";
+
+/*  */
+"Xr6-B2-LFz.title" = "Range (%)";
+
+/* Describes the order in which rainbow colors are distributed around the central topic */
+"XwN-U6-OJu.title" = "Clockwise";
+
+/*  */
+"dof-gb-6Ph.title" = "Map Style";
+
+/* A Style setting where colors are chosen automatically from a rainbow palette */
+"gCI-s2-6bV.title" = "Rainbow Colors";
+
+/* A map style option (wireframe means no fill) */
+"o1Z-WV-yUq.title" = "Wireframe (Color)";
+
+/* Canvas is the background color/pattern of the map */
+"o4C-bB-Mk6.title" = "Canvas";
+
+/* A map style option (wireframe means no fill, monochrome means black and white) */
+"y5b-Ru-9Hc.title" = "Wireframe (Monochrome)";

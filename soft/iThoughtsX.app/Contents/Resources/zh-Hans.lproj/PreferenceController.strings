@@ -1,0 +1,110 @@
+/*  */
+"1.title" = "首选项";
+
+/* General preferences tab */
+"20.label" = "一般";
+
+/* General preferences tab */
+"20.paletteLabel" = "一般";
+
+/* Advanced preferences tab */
+"21.label" = "高级";
+
+/* Advanced preferences tab */
+"21.paletteLabel" = "高级";
+
+/* Licensing tab */
+"22.label" = "许可证";
+
+/* Licensing tab */
+"22.paletteLabel" = "许可证";
+
+/*  */
+"40.title" = "名称（电子邮件地址）";
+
+/* license code */
+"54.title" = "代码";
+
+/* Register the app */
+"62.title" = "注册";
+
+/* Purchase the app */
+"64.title" = "购买";
+
+/* days remaining of the trial */
+"66.title" = "剩余天数";
+
+/* global list of resources (names) used */
+"75.title" = "全局资源名称";
+
+/* Resources (typically named people) */
+"81.label" = "资源";
+
+/* Resources (typically named people) */
+"81.paletteLabel" = "资源";
+
+/* Option to include textual outline in the body of an email when exporting */
+"6WA-kd-vUa.title" = "包括电子邮件概要";
+
+/* Option when exporting in Markdown - only include visible topics */
+"7aM-vd-5ID.title" = "可见主题";
+
+/* Return as in 'Return key' on keyboard */
+"7oT-fx-BSl.title" = "3x 返回 -> 新建主题";
+
+/* default position for notes window (top, bottom, left, right) */
+"D9v-RD-Ket.title" = "顶部";
+
+/*  */
+"IE4-Y3-eH2.title" = "键盘快捷键模式";
+
+/*  */
+"Kge-Ab-Hsx.title" = "无";
+
+/* Return as in 'Return key' on keyboard */
+"MSc-d9-466.title" = "返回 -> 新建主题";
+
+/* default position for notes window (top, bottom, left, right) */
+"Onl-I6-ayf.title" = "底部";
+
+/* default position for notes window (top, bottom, left, right) */
+"RE0-1X-7es.title" = "左侧";
+
+/* strike through as in 'cross out' */
+"SPf-uV-vZW.title" = "删除线已绘制完成";
+
+/*  */
+"VY3-1P-rXs.title" = "全屏时隐藏工具栏";
+
+/* When launching the app, should it create a new document automatically */
+"aD8-1H-m2x.title" = "应打开无标题文件";
+
+/* Return as in 'Return key' on keyboard */
+"cyA-dp-zzH.title" = "返回 -> 结束编辑";
+
+/* Option to generate a markdown format preview within the app */
+"e3d-Cw-DQG.title" = "Markdown 预览";
+
+/* Default style settings applied to new maps */
+"fjm-WF-9ke.title" = "新导图样式";
+
+/* Drag as in mouse drag and canvas is the window bakground */
+"gbQ-2W-FXb.title" = "拖动画布";
+
+/*  */
+"kpY-1q-8cf.title" = "所有主题";
+
+/* Tick box option: Layers are a way of drawing graphics - this option enables this method or not */
+"p5x-JX-PfY.title" = "使用图层";
+
+/* Tick box option: Save maps using an older version of ITMZ file format (ITMZ is the file format used by iThoughts) */
+"WNp-4o-u9H.title" = "使用旧版 ITMZ 格式";
+
+/*  */
+"pQ0-iu-WkH.title" = "开始时打开注释视图";
+
+/*  */
+"tQo-yM-X4F.title" = "注释窗口位置";
+
+/* default position for notes window (top, bottom, left, right) */
+"tXG-ZB-oeI.title" = "右侧";

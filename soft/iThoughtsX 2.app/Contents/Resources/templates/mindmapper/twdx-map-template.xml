@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<MindMapper>
+	<header>
+		<summary author="iThoughts" category="12 Edition" company="" keywords="" manager="" subject="" title="">
+			<description/>
+		</summary>
+		<masterresource currency="&#xA3;"/>
+		<printconfig collate="0" copy="1" footer="" header="" logicalMaxPageCount="1" orientation="2" pageMarginBottom="1000" pageMarginLeft="1500" pageMarginRight="1500" pageMarginTop="1000" physical="1" splitCountX="1" splitCountY="1"/>
+		<docconfig UniscribeCharGap="1.000000" UniscribeCharWidthRatio="100" autoNumbering="0" autoNumberingMaxLevel="-1" branchXGap="60" branchYGap="60" buildno=".6013" childGap1="70" childGap2="11" createdDate="03/17/2014 13:39:40" isArtMode="0" lastCenter="4997.000000,2497.000000" paperColor="ffffff00" reg="1" rp="" serializeversion="524288" size="10000,5000" wp="" zoomNum="110">
+			<mapstyle autoNumberOnNewLine="0" branchColorKind="2" branchFixedColor="8db3e200" centerPattern="0" legendPosition="1" mapBackColor="ffffff00" radialDirection="0" transparency="0">
+				<branchCustomColor color="00b0f000" index="0"/>
+				<branchCustomColor color="92d05000" index="1"/>
+				<branchCustomColor color="ff800000" index="2"/>
+				<branchCustomColor color="00800000" index="3"/>
+				<branchCustomColor color="1032c400" index="4"/>
+				<branchCustomColor color="c0008000" index="5"/>
+				<textInfo align="4" arrangeType="2050" backColor="ffffff00" bold="1" branchLine="21" branchShape="1" cancel="0" faceName="Arial" foreColor="00000000" height="-64" imageName="" index="0" italic="0" outlineColor="2656b200" outlineWidth="13" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="Arial" foreColor="00000000" height="-49" imageName="" index="1" italic="0" outlineColor="8db3e200" outlineWidth="9" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="Arial" foreColor="00000000" height="-42" imageName="" index="2" italic="0" outlineColor="00b0f000" outlineWidth="9" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="" foreColor="00000000" height="0" imageName="" index="3" italic="0" outlineColor="00000000" outlineWidth="0" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="" foreColor="00000000" height="0" imageName="" index="4" italic="0" outlineColor="00000000" outlineWidth="0" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="" foreColor="00000000" height="0" imageName="" index="5" italic="0" outlineColor="00000000" outlineWidth="0" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="" foreColor="00000000" height="0" imageName="" index="6" italic="0" outlineColor="00000000" outlineWidth="0" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="" foreColor="00000000" height="0" imageName="" index="7" italic="0" outlineColor="00000000" outlineWidth="0" underline="0"/>
+				<textInfo align="4" arrangeType="0" backColor="fefefe00" bold="0" branchLine="5" branchShape="1" cancel="0" faceName="" foreColor="00000000" height="0" imageName="" index="8" italic="0" outlineColor="00000000" outlineWidth="0" underline="0"/>
+			</mapstyle>
+		</docconfig>
+		<scheduleView begWorkHour="9" 
+						endWorkHour="18" 
+						mode="1" 
+						scrollpos="0" 
+						vs_day="60" 
+						vs_month="180" 
+						vs_week="60" 
+						vs_year="720" 
+						init="_SCHEDULE_DATE_" 
+						month="_SCHEDULE_DATE_" 
+						time="_SCHEDULE_DATE_" 
+						day="_SCHEDULE_DATE_" 
+						week="_SCHEDULE_DATE_" 
+						year="_SCHEDULE_DATE_"/>
+	</header>
+
+<!--ITEMS-->
+
+	<show advance="1" controlBarAlign="0" rangeCustom="" rangeFrom="0" rangeTo="0" rangeType="0" type="0" untilEsc="0">
+		<slides/>
+	</show>
+	<legendUsages/>
+</MindMapper>

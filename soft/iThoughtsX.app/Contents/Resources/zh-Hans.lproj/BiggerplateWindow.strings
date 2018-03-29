@@ -1,0 +1,11 @@
+/* Button title: Authorize with Biggerplate.com */
+"EUV-2l-y7B.title" = "授权";
+
+/* Standard button title */
+"MSI-W5-AdK.title" = "取消";
+
+/* Placeholder text indicating a title should be enetered */
+"PaZ-uD-Z3B.placeholderString" = "标题";
+
+/* Button title - to share the current map on the biggerplate.com website */
+"S8W-FQ-EVv.title" = "在 Biggerplate 上分享";
