@@ -1,0 +1,11 @@
+/* TW.PREFIX=Mac.SearchViewController. */
+
+
+/* Place holder text where a search term will be entered */
+"1MT-Bj-wbs.placeholderString" = "Search";
+
+/* Search scope - search just this map */
+"BmU-vo-JYe.ibShadowedLabels[0]" = "This Map";
+
+/* Search scope - search all maps */
+"BmU-vo-JYe.ibShadowedLabels[1]" = "All Maps";

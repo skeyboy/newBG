@@ -1,0 +1,173 @@
+/* TW.PREFIX=Mac.Preferences. */
+
+
+
+/* Check box to show the notes in the outline */
+"De2-4t-plW.title" = "Show Notes";
+/* Checkbox to include a link (URL) back to the source topic when exporting to calendar/reminder system */
+"dL5-2D-oHR.title" = "Link back to topic";
+
+/* Section title for task related settings */
+"CpM-9F-daT.title" = "Task";
+/* Section title for outline related settings */
+"DrU-ao-rOG.title" = "Outline";
+/* Section title for calendar/reminder related settings */
+"wyq-5A-ilX.title" = "Calendar/Reminder";
+
+
+/* Option to show the ancestor topics of the currently selected/focused topics */
+"rfb-dc-Pd7.title" = "Show Ancestors (focus)";
+
+
+/* Checkbox title (if checked then progress, cost and effort values are automatically rolled up into the parent topic - i.e. their combined value is calculated) */
+"RKZ-Zi-2kV.title" = "Auto rollup (progress, cost, effort)";
+
+
+/* Button title - reset the help/tips system */
+"6eV-qX-qus.title" = "Reset Tips";
+
+
+
+/* menu option: unit of time */
+"s9K-px-iE2.title" = "Minutes";
+
+/* menu option: unit of time */
+"bp4-tc-apI.title" = "Hours";
+
+/* menu option: unit of time */
+"bVO-R4-aDw.title" = "Days";
+
+/* menu option: unit of time */
+"DCl-WQ-WaQ.title" = "Weeks";
+
+/* menu option: unit of time */
+"OBq-bJ-ZtE.title" = "Months";
+
+/* menu option: unit of time */
+"VT1-dI-jZl.title" = "Years";
+
+/* menu option: text label to set default unit of time when configuring effort */
+"uRX-JA-N3S.title" = "Default Effort Units";
+
+
+
+
+
+/* Tick box option to enable/disable animations during presentation of the map */
+"xd5-AV-aQT.title" = "Animate Presentations";
+
+
+/* Tick box option to enable/disable the generation of relative links to other files (rather than absolute/full links) */
+"Zn3-aS-fBg.title" = "Use relative links";
+
+
+/*  */
+"1.title" = "Preferences";
+
+/* General preferences tab */
+"20.label" = "General";
+
+/* General preferences tab */
+"20.paletteLabel" = "General";
+
+/* Advanced preferences tab */
+"21.label" = "Advanced";
+
+/* Advanced preferences tab */
+"21.paletteLabel" = "Advanced";
+
+/* Licensing tab */
+"22.label" = "License";
+
+/* Licensing tab */
+"22.paletteLabel" = "License";
+
+/*  */
+"40.title" = "Name (email address)";
+
+/* license code */
+"54.title" = "Code";
+
+/* Register the app */
+"62.title" = "Register";
+
+/* Purchase the app */
+"64.title" = "Purchase";
+
+/* days remaining of the trial */
+"66.title" = "Days Remaining";
+
+/* global list of resources (names) used */
+"75.title" = "Global Resource Names";
+
+/* Resources (typically named people) */
+"81.label" = "Resources";
+
+/* Resources (typically named people) */
+"81.paletteLabel" = "Resources";
+
+/* Option to include textual outline in the body of an email when exporting */
+"6WA-kd-vUa.title" = "Include email outline";
+
+/* Option when exporting in Markdown - only include visible topics */
+"7aM-vd-5ID.title" = "Visible topics";
+
+/* Return as in 'Return key' on keyboard */
+"7oT-fx-BSl.title" = "3x Return -> NewTopic";
+
+/* default position for notes window (top, bottom, left, right) */
+"D9v-RD-Ket.title" = "Top";
+
+/*  */
+"IE4-Y3-eH2.title" = "Keyboard Shortcut Mode";
+
+/*  */
+"Kge-Ab-Hsx.title" = "None";
+
+/* Return as in 'Return key' on keyboard */
+"MSc-d9-466.title" = "Return -> New Topic";
+
+/* default position for notes window (top, bottom, left, right) */
+"Onl-I6-ayf.title" = "Bottom";
+
+/* default position for notes window (top, bottom, left, right) */
+"RE0-1X-7es.title" = "Left";
+
+/* strike through as in 'cross out' */
+"SPf-uV-vZW.title" = "Strikethrough Completed";
+
+/*  */
+"VY3-1P-rXs.title" = "Hide toolbar when full screen";
+
+/* When launching the app, should it create a new document automatically */
+"aD8-1H-m2x.title" = "Should open untitled file";
+
+/* Return as in 'Return key' on keyboard */
+"cyA-dp-zzH.title" = "Return -> End Edit";
+
+/* Option to generate a markdown format preview within the app */
+"e3d-Cw-DQG.title" = "Markdown Preview";
+
+/* Default style settings applied to new maps */
+"fjm-WF-9ke.title" = "Style for new maps";
+
+/* Drag as in mouse drag and canvas is the window bakground */
+"gbQ-2W-FXb.title" = "Drag to move canvas";
+
+/*  */
+"kpY-1q-8cf.title" = "All topics";
+
+/* Tick box option: Layers are a way of drawing graphics - this option enables this method or not */
+"p5x-JX-PfY.title" = "Use Layers";
+
+/* Tick box option: Save maps using an older version of ITMZ file format (ITMZ is the file format used by iThoughts) */
+"WNp-4o-u9H.title" = "Use legacy ITMZ format";
+
+/*  */
+"pQ0-iu-WkH.title" = "Notes view open initially";
+
+/*  */
+"tQo-yM-X4F.title" = "Notes Window Placement";
+
+/* default position for notes window (top, bottom, left, right) */
+"tXG-ZB-oeI.title" = "Right";

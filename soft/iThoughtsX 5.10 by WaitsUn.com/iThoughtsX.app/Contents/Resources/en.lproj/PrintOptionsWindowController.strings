@@ -1,0 +1,112 @@
+/* TW.PREFIX=Mac.PrintOptionsWC. */
+
+/* Option to include topic images in an appendix to the document */
+"eKx-m6-bZK.title" = "Images Appendix";
+
+/* Option to print any linked maps */
+"o1x-fM-lD5.title" = "Linked Maps";
+
+/* Page size to use for the document appendix */
+"Nvb-8M-LHT.title" = "Appendix Page Size";
+
+/* Option to include topic notes in an appendix to the document */
+"3ga-6o-Rak.title" = "Notes Appendix";
+
+
+
+
+/* Scale to apply when printing */
+"4xC-3Q-ehK.title" = "75%";
+
+/*  */
+"BPJ-eB-yox.title" = "Cancel";
+
+/* Paper size */
+"Bqc-AM-pFp.title" = "A4";
+
+/* Print scale - fit to single page */
+"Cfr-lB-hRP.title" = "Single Page";
+
+
+
+
+/*  */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Paper size */
+"FuP-WT-Uug.title" = "A3";
+
+/* Paper size */
+"GNN-Ol-APf.title" = "A3";
+
+/* Paper size */
+"GOc-Zt-G2u.title" = "A2";
+
+/* Page size when printing a map */
+"Get-O0-LIj.title" = "Map Page Size";
+
+/* Paper size */
+"HiM-AO-aJj.title" = "US Legal";
+
+/*  */
+"IoC-tJ-idN.title" = "Print Map";
+
+/* Paper size */
+"PAj-Vr-gyu.title" = "A0";
+
+/* Paper size */
+"PY6-9p-1Ef.title" = "US Letter";
+
+/* Scale to apply when printing */
+"SmV-io-moO.title" = "400%";
+
+/* Paper size */
+"WMN-ZM-Jaq.title" = "US Letter";
+
+/* Button - print the selected topics */
+"YCt-7E-DK0.title" = "Print Selected";
+
+/* Scale to apply when printing */
+"YGX-bM-m2f.title" = "25%";
+
+/* Paper size */
+"cLc-Dh-lbu.title" = "US Tabloid/Ledger";
+
+/* Paper size */
+"fpE-hC-1m8.title" = "A1";
+
+/* Paper size */
+"fzH-FO-lp3.title" = "A0";
+
+/* Scale to apply when printing */
+"g2o-7l-sNl.title" = "100%";
+
+/* Paper size */
+"jaH-iN-rl4.title" = "A2";
+
+/* Paper size */
+"ktJ-85-016.title" = "A1";
+
+/* How to scale the map prior to printing */
+"ms6-gt-dkA.title" = "Map Scale";
+
+/* Paper size */
+"p2y-wx-UF8.title" = "US Tabloid/Ledger";
+
+/* Scale to apply when printing */
+"trx-RK-4uP.title" = "150%";
+
+/* Scale to apply when printing */
+"uGe-x5-7rT.title" = "50%";
+
+/* Paper size */
+"um7-YP-qI1.title" = "US Legal";
+
+/* Paper size */
+"voI-oJ-rgw.title" = "A4";
+
+/* Scale to apply when printing */
+"wXh-nw-u59.title" = "200%";
+
+/* Scale to apply when printing */
+"wrj-ka-XQF.title" = "10%";

@@ -1,0 +1,265 @@
+/* TW.PREFIX=Mac.Document. */
+
+
+
+/* Tooltip for button that shows/hides the sidebar */
+"td2-8n-flJ.ibShadowedToolTips[0]" = "Show/Hide the sidebar";
+
+/* Tooltip for button that changes what is displayed in the sidebar */
+"td2-8n-flJ.ibShadowedToolTips[1]" = "Choose the sidebar content to display";
+
+
+
+
+/* Search toolbar button title */
+"Uqi-Ay-mUw.label" = "Search";
+
+/* Search toolbar button title */
+"Uqi-Ay-mUw.paletteLabel" = "Search";
+
+
+
+
+/* Topic shape */
+"hKe-Xs-jWF.title" = "Circle";
+
+/* Topic shape */
+"WDL-W4-whI.title" = "Diamond";
+
+/* Topic shape */
+"uQT-U8-sXp.title" = "Parallelogram";
+
+/* Topic shape */
+"Cfa-Kx-GIL.title" = "Pill";
+
+/* Topic shape */
+"1xX-fT-dPm.title" = "Square";
+
+/* Topic shape */
+"qww-Ag-ORk.title" = "Triangle";
+
+
+
+
+/* Toolbar Button Tooltip: */
+"100136.toolTip" = "Change the shape of the selected topics";
+
+/* Toolbar Button Tooltip: */
+"100157.toolTip" = "Choose an icon from the library";
+
+/* Toolbar Button Tooltip: */
+"iVg-7a-C2d.toolTip" = "Export the map or selection in one of the supported formats";
+
+/* Toolbar Button Tooltip: */
+"100165.toolTip" = "Choose an image from the library";
+
+/* Toolbar Button Tooltip: */
+"100169.toolTip" = "Configure task settings for the selected topics";
+
+/* Toolbar Button Tooltip: */
+"100251.toolTip" = "Change color for current selection";
+
+/* Toolbar Button Tooltip: */
+"LMn-Kv-A1P.toolTip" = "Change the font for the selected topics";
+
+/* Toolbar Button Tooltip: */
+"oXZ-uh-11b.toolTip" = "Configure the default Style settings for the map";
+
+/* Toolbar Button Tooltip: [TAB] = TAB key */
+"JMv-VD-8HT.toolTip" = "Create a new Child topic [TAB]";
+
+/* Toolbar Button Tooltip: [RETURN] = RETURN key*/
+"UKN-zd-iuu.toolTip" = "Create a new Sibling topic [RETURN]";
+
+/* Toolbar Button Tooltip: */
+"kWU-Rd-zZo.toolTip" = "Create a Relationship link line between 2 topics";
+
+/* Toolbar Button Tooltip: */
+"3Nv-Fl-4aK.toolTip" = "Add (or remove) a boundary for the selected branch";
+
+/* Toolbar Button Tooltip: */
+"hXI-xe-dCs.toolTip" = "Apply a filter to the map";
+
+/* Toolbar Button Tooltip: */
+"qhg-fe-q6q.toolTip" = "Create a new Callout topic [CTRL+SHIFT+K]";
+
+/* Toolbar Button Tooltip: */
+"HtU-fF-XeT.toolTip" = "Apply a quick textual filter to the map";
+
+/* Toolbar Button Tooltip: */
+"kiL-Pp-PCP.toolTip" = "Toggle between editing and viewing the notes";
+
+
+/* Tooltip: button to make the current map a favourite (or not) */
+"DBc-HK-DCW.ibShadowedToolTip" = "Make this map a favourite (or not)";
+
+
+
+
+
+
+
+/* */
+"5.title" = "Window";
+
+/* short for 'automatic' */
+"100133.title" = "Auto";
+
+/* Topic shape */
+"100134.title" = "Rectangle";
+
+/* Topic shape */
+"100135.title" = "Rounded";
+
+/* toolbar button to select a topic shape */
+"100136.label" = "Shape";
+
+/* toolbar button to select a topic shape */
+"100136.paletteLabel" = "Shape";
+
+/* Topic shape */
+"100137.title" = "Oval";
+
+/* Topic shape */
+"100138.title" = "Underline";
+
+/* Topic shape */
+"100139.title" = "None";
+
+/* Toolbar button to select an icon to attach to a topic */
+"100157.label" = "Icon";
+
+/* Toolbar button to select an icon to attach to a topic */
+"100157.paletteLabel" = "Icon";
+
+/* Toolbar button to select an image to attach to a topic */
+"100165.label" = "Image";
+
+/* Toolbar button to select an image to attach to a topic */
+"100165.paletteLabel" = "Image";
+
+/* Toolbar button to select start/due date type information to attach to a topic */
+"100169.label" = "Task";
+
+/* Toolbar button to select start/due date type information to attach to a topic */
+"100169.paletteLabel" = "Task";
+
+/* Zoom level menu item */
+"100207.title" = "100%";
+
+/* Zoom level menu item */
+"100208.title" = "25%";
+
+/* Zoom level menu item */
+"100209.title" = "75%";
+
+/* Button to popup a list of predefined map styles from which the user can select */
+"100213.title" = "Styles";
+
+/* Zoom level menu item */
+"100215.title" = "100%";
+
+/* Zoom level menu item */
+"100216.title" = "125%";
+
+/* Zoom level menu item */
+"100217.title" = "150%";
+
+/* Zoom level menu item */
+"100218.title" = "200%";
+
+/* Zoom level menu item */
+"100219.title" = "300%";
+
+/* Zoom level menu item */
+"100220.title" = "400%";
+
+/* Ensure the map fits entirely into the window */
+"100221.title" = "Fit Map";
+
+/* Ensure the current selection fits entirely into the window */
+"100222.title" = "Fit Selection";
+
+/* Zoom level menu item */
+"100241.title" = "50%";
+
+/* toolbar button to select a color for a topic */
+"100251.label" = "Color";
+
+/* toolbar button to select a color for a topic */
+"100251.paletteLabel" = "Color";
+
+/* Short for 'automatic' */
+"100255.title" = "Auto";
+
+/* toolbar button to enable a boundary line to be drawn round the selected branch */
+"3Nv-Fl-4aK.label" = "Boundary";
+
+/* toolbar button to enable a boundary line to be drawn round the selected branch */
+"3Nv-Fl-4aK.paletteLabel" = "Boundary";
+
+/* As in 'to focus on a specific area' */
+"DiT-oc-5Id.title" = "Focus";
+
+/* Topic shape */
+"DvF-PG-nFK.title" = "Curved Bracket";
+
+/* toolbar button */
+"HtU-fF-XeT.label" = "Quick Filter";
+
+/* toolbar button */
+"HtU-fF-XeT.paletteLabel" = "Quick Filter";
+
+/* Create new child topic */
+"JMv-VD-8HT.label" = "New Child";
+
+/* Create new child topic */
+"JMv-VD-8HT.paletteLabel" = "New Child";
+
+/* Toolbar button to show the font dialog */
+"LMn-Kv-A1P.label" = "Fonts";
+
+/* Toolbar button to show the font dialog */
+"LMn-Kv-A1P.paletteLabel" = "Fonts";
+
+/* Create new sibling topic */
+"UKN-zd-iuu.label" = "New Sibling";
+
+/* Create new sibling topic */
+"UKN-zd-iuu.paletteLabel" = "New Sibling";
+
+/* Topic shape */
+"ZHU-63-iZr.title" = "Square Bracket";
+
+/* Filter the map (hide certain topics) */
+"hXI-xe-dCs.label" = "Filter";
+
+/* Filter the map (hide certain topics) */
+"hXI-xe-dCs.paletteLabel" = "Filter";
+
+/* Share/export the map or selected branch */
+"iVg-7a-C2d.label" = "Share";
+
+/* Share/export the map or selected branch */
+"iVg-7a-C2d.paletteLabel" = "Share";
+
+/* Relationship line between two topics */
+"kWU-Rd-zZo.label" = "Relationship";
+
+/* Relationship line between two topics */
+"kWU-Rd-zZo.paletteLabel" = "Relationship";
+
+/* Edit the map style (default colors/shapes etc.) */
+"oXZ-uh-11b.label" = "Edit Style";
+
+/* Edit the map style (default colors/shapes etc.) */
+"oXZ-uh-11b.paletteLabel" = "Edit Style";
+
+/* Create a new callout topic */
+"qhg-fe-q6q.label" = "New Callout";
+
+/* Create a new callout topic */
+"qhg-fe-q6q.paletteLabel" = "New Callout";
+
+/* Placeholder string in a search text box */
+"sxT-0B-i2U.placeholderString" = "Quick Filter";
